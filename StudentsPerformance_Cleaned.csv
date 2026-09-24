@@ -1,0 +1,1001 @@
+gender,race/ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,average_score,total_score,performance,pass_status
+female,group b,bachelor's degree,standard,none,72.0,72.0,74.0,72.66666666666667,218.0,good,pass
+female,group c,some college,standard,completed,69.0,90.0,88.0,82.33333333333333,247.0,excellent,pass
+female,group b,master's degree,standard,none,90.0,95.0,93.0,92.66666666666667,278.0,excellent,pass
+male,group a,associate's degree,free/reduced,none,47.0,57.0,44.0,49.333333333333336,148.0,average,pass
+male,group c,some college,standard,none,76.0,78.0,75.0,76.33333333333333,229.0,good,pass
+female,group b,associate's degree,standard,none,71.0,83.0,78.0,77.33333333333333,232.0,good,pass
+female,group b,some college,standard,completed,88.0,95.0,92.0,91.66666666666667,275.0,excellent,pass
+male,group b,some college,free/reduced,none,40.0,43.0,39.0,40.666666666666664,122.0,average,fail
+male,group d,high school,free/reduced,completed,64.0,64.0,67.0,65.0,195.0,good,pass
+female,group b,high school,free/reduced,none,38.0,60.0,50.0,49.333333333333336,148.0,average,fail
+male,group c,associate's degree,standard,none,58.0,54.0,52.0,54.666666666666664,164.0,average,pass
+male,group d,associate's degree,standard,none,40.0,52.0,43.0,45.0,135.0,average,pass
+female,group b,high school,standard,none,65.0,81.0,73.0,73.0,219.0,good,pass
+male,group a,some college,standard,completed,78.0,72.0,70.0,73.33333333333333,220.0,good,pass
+female,group a,master's degree,standard,none,50.0,53.0,58.0,53.666666666666664,161.0,average,pass
+female,group c,some high school,standard,none,69.0,75.0,78.0,74.0,222.0,good,pass
+male,group c,high school,standard,none,88.0,89.0,86.0,87.66666666666667,263.0,excellent,pass
+female,group b,some high school,free/reduced,none,27.0,32.0,28.0,29.0,87.0,poor,fail
+male,group c,master's degree,free/reduced,completed,46.0,42.0,46.0,44.666666666666664,134.0,average,pass
+female,group c,associate's degree,free/reduced,none,54.0,58.0,61.0,57.666666666666664,173.0,average,pass
+male,group d,high school,standard,none,66.0,69.0,63.0,66.0,198.0,good,pass
+female,group b,some college,free/reduced,completed,65.0,75.0,70.0,70.0,210.0,good,pass
+male,group d,some college,standard,none,44.0,54.0,53.0,50.333333333333336,151.0,average,pass
+female,group c,some high school,standard,none,69.0,73.0,73.0,71.66666666666667,215.0,good,pass
+male,group d,bachelor's degree,free/reduced,completed,74.0,71.0,80.0,75.0,225.0,good,pass
+male,group a,master's degree,free/reduced,none,73.0,74.0,72.0,73.0,219.0,good,pass
+male,group b,some college,standard,none,69.0,54.0,55.0,59.333333333333336,178.0,average,pass
+female,group c,bachelor's degree,standard,none,67.0,69.0,75.0,70.33333333333333,211.0,good,pass
+male,group c,high school,standard,none,70.0,70.0,65.0,68.33333333333333,205.0,good,pass
+female,group d,master's degree,standard,none,62.0,70.0,75.0,69.0,207.0,good,pass
+female,group d,some college,standard,none,69.0,74.0,74.0,72.33333333333333,217.0,good,pass
+female,group b,some college,standard,none,63.0,65.0,61.0,63.0,189.0,good,pass
+female,group e,master's degree,free/reduced,none,56.0,72.0,65.0,64.33333333333333,193.0,good,pass
+male,group d,some college,standard,none,40.0,42.0,38.0,40.0,120.0,average,fail
+male,group e,some college,standard,none,97.0,87.0,82.0,88.66666666666667,266.0,excellent,pass
+male,group e,associate's degree,standard,completed,81.0,81.0,79.0,80.33333333333333,241.0,excellent,pass
+female,group d,associate's degree,standard,none,74.0,81.0,83.0,79.33333333333333,238.0,good,pass
+female,group d,some high school,free/reduced,none,50.0,64.0,59.0,57.666666666666664,173.0,average,pass
+female,group d,associate's degree,free/reduced,completed,75.0,90.0,88.0,84.33333333333333,253.0,excellent,pass
+male,group b,associate's degree,free/reduced,none,57.0,56.0,57.0,56.666666666666664,170.0,average,pass
+male,group c,associate's degree,free/reduced,none,55.0,61.0,54.0,56.666666666666664,170.0,average,pass
+female,group c,associate's degree,standard,none,58.0,73.0,68.0,66.33333333333333,199.0,good,pass
+female,group b,associate's degree,standard,none,53.0,58.0,65.0,58.666666666666664,176.0,average,pass
+male,group b,some college,free/reduced,completed,59.0,65.0,66.0,63.333333333333336,190.0,good,pass
+female,group e,associate's degree,free/reduced,none,50.0,56.0,54.0,53.333333333333336,160.0,average,pass
+male,group b,associate's degree,standard,none,65.0,54.0,57.0,58.666666666666664,176.0,average,pass
+female,group a,associate's degree,standard,completed,55.0,65.0,62.0,60.666666666666664,182.0,good,pass
+female,group c,high school,standard,none,66.0,71.0,76.0,71.0,213.0,good,pass
+female,group d,associate's degree,free/reduced,completed,57.0,74.0,76.0,69.0,207.0,good,pass
+male,group c,high school,standard,completed,82.0,84.0,82.0,82.66666666666667,248.0,excellent,pass
+male,group e,some college,standard,none,53.0,55.0,48.0,52.0,156.0,average,pass
+male,group e,associate's degree,free/reduced,completed,77.0,69.0,68.0,71.33333333333333,214.0,good,pass
+male,group c,some college,standard,none,53.0,44.0,42.0,46.333333333333336,139.0,average,pass
+male,group d,high school,standard,none,88.0,78.0,75.0,80.33333333333333,241.0,excellent,pass
+female,group c,some high school,free/reduced,completed,71.0,84.0,87.0,80.66666666666667,242.0,excellent,pass
+female,group c,high school,free/reduced,none,33.0,41.0,43.0,39.0,117.0,poor,fail
+female,group e,associate's degree,standard,completed,82.0,85.0,86.0,84.33333333333333,253.0,excellent,pass
+male,group d,associate's degree,standard,none,52.0,55.0,49.0,52.0,156.0,average,pass
+male,group d,some college,standard,completed,58.0,59.0,58.0,58.333333333333336,175.0,average,pass
+female,group c,some high school,free/reduced,none,27.0,29.0,25.875,27.291666666666668,81.875,poor,fail
+male,group e,bachelor's degree,free/reduced,completed,79.0,74.0,72.0,75.0,225.0,good,pass
+male,group a,some high school,free/reduced,none,39.0,39.0,34.0,37.333333333333336,112.0,poor,fail
+male,group a,associate's degree,free/reduced,none,62.0,61.0,55.0,59.333333333333336,178.0,average,pass
+female,group c,associate's degree,standard,none,69.0,80.0,71.0,73.33333333333333,220.0,good,pass
+female,group d,some high school,standard,none,59.0,58.0,59.0,58.666666666666664,176.0,average,pass
+male,group b,some high school,standard,none,67.0,64.0,61.0,64.0,192.0,good,pass
+male,group d,some high school,free/reduced,none,45.0,37.0,37.0,39.666666666666664,119.0,poor,fail
+female,group c,some college,standard,none,60.0,72.0,74.0,68.66666666666667,206.0,good,pass
+male,group b,associate's degree,free/reduced,none,61.0,58.0,56.0,58.333333333333336,175.0,average,pass
+female,group c,associate's degree,standard,none,39.0,64.0,57.0,53.333333333333336,160.0,average,fail
+female,group d,some college,free/reduced,completed,58.0,63.0,73.0,64.66666666666667,194.0,good,pass
+male,group d,some college,standard,completed,63.0,55.0,63.0,60.333333333333336,181.0,good,pass
+female,group a,associate's degree,free/reduced,none,41.0,51.0,48.0,46.666666666666664,140.0,average,pass
+male,group c,some high school,free/reduced,none,61.0,57.0,56.0,58.0,174.0,average,pass
+male,group c,some high school,standard,none,49.0,49.0,41.0,46.333333333333336,139.0,average,pass
+male,group b,associate's degree,free/reduced,none,44.0,41.0,38.0,41.0,123.0,average,fail
+male,group e,some high school,standard,none,30.0,29.0,25.875,28.291666666666668,84.875,poor,fail
+male,group a,bachelor's degree,standard,completed,80.0,78.0,81.0,79.66666666666667,239.0,good,pass
+female,group d,some high school,standard,completed,61.0,74.0,72.0,69.0,207.0,good,pass
+female,group e,master's degree,standard,none,62.0,68.0,68.0,66.0,198.0,good,pass
+female,group b,associate's degree,standard,none,47.0,49.0,50.0,48.666666666666664,146.0,average,pass
+male,group b,high school,free/reduced,none,49.0,45.0,45.0,46.333333333333336,139.0,average,pass
+male,group a,some college,free/reduced,completed,50.0,47.0,54.0,50.333333333333336,151.0,average,pass
+male,group e,associate's degree,standard,none,72.0,64.0,63.0,66.33333333333333,199.0,good,pass
+male,group d,high school,free/reduced,none,42.0,39.0,34.0,38.333333333333336,115.0,poor,fail
+female,group c,some college,standard,none,73.0,80.0,82.0,78.33333333333333,235.0,good,pass
+female,group c,some college,free/reduced,none,76.0,83.0,88.0,82.33333333333333,247.0,excellent,pass
+female,group d,associate's degree,standard,none,71.0,71.0,74.0,72.0,216.0,good,pass
+female,group a,some college,standard,none,58.0,70.0,67.0,65.0,195.0,good,pass
+female,group d,some high school,standard,none,73.0,86.0,82.0,80.33333333333333,241.0,excellent,pass
+female,group c,bachelor's degree,standard,none,65.0,72.0,74.0,70.33333333333333,211.0,good,pass
+male,group c,high school,free/reduced,none,27.0,34.0,36.0,32.333333333333336,97.0,poor,fail
+male,group c,high school,standard,none,71.0,79.0,71.0,73.66666666666667,221.0,good,pass
+male,group c,associate's degree,free/reduced,completed,43.0,45.0,50.0,46.0,138.0,average,pass
+female,group b,some college,standard,none,79.0,86.0,92.0,85.66666666666667,257.0,excellent,pass
+male,group c,associate's degree,free/reduced,completed,78.0,81.0,82.0,80.33333333333333,241.0,excellent,pass
+male,group b,some high school,standard,completed,65.0,66.0,62.0,64.33333333333333,193.0,good,pass
+female,group e,some college,standard,completed,63.0,72.0,70.0,68.33333333333333,205.0,good,pass
+female,group d,some college,free/reduced,none,58.0,67.0,62.0,62.333333333333336,187.0,good,pass
+female,group d,bachelor's degree,standard,none,65.0,67.0,62.0,64.66666666666667,194.0,good,pass
+male,group b,some college,standard,none,79.0,67.0,67.0,71.0,213.0,good,pass
+male,group d,bachelor's degree,standard,completed,68.0,74.0,74.0,72.0,216.0,good,pass
+female,group d,associate's degree,standard,none,85.0,91.0,89.0,88.33333333333333,265.0,excellent,pass
+male,group b,high school,standard,completed,60.0,44.0,47.0,50.333333333333336,151.0,average,pass
+male,group c,some college,standard,completed,98.0,86.0,90.0,91.33333333333333,274.0,excellent,pass
+female,group c,some college,standard,none,58.0,67.0,72.0,65.66666666666667,197.0,good,pass
+female,group d,master's degree,standard,none,87.0,100.0,100.0,95.66666666666667,287.0,excellent,pass
+male,group e,associate's degree,standard,completed,66.0,63.0,64.0,64.33333333333333,193.0,good,pass
+female,group b,associate's degree,free/reduced,none,52.0,76.0,70.0,66.0,198.0,good,pass
+female,group b,some high school,standard,none,70.0,64.0,72.0,68.66666666666667,206.0,good,pass
+female,group d,associate's degree,free/reduced,completed,77.0,89.0,98.0,88.0,264.0,excellent,pass
+male,group c,high school,standard,none,62.0,55.0,49.0,55.333333333333336,166.0,average,pass
+male,group a,associate's degree,standard,none,54.0,53.0,47.0,51.333333333333336,154.0,average,pass
+female,group d,some college,standard,none,51.0,58.0,54.0,54.333333333333336,163.0,average,pass
+female,group e,bachelor's degree,standard,completed,99.0,100.0,100.0,99.66666666666667,299.0,excellent,pass
+male,group c,high school,standard,none,84.0,77.0,74.0,78.33333333333333,235.0,good,pass
+female,group b,bachelor's degree,free/reduced,none,75.0,85.0,82.0,80.66666666666667,242.0,excellent,pass
+female,group d,bachelor's degree,standard,none,78.0,82.0,79.0,79.66666666666667,239.0,good,pass
+female,group d,some high school,standard,none,51.0,63.0,61.0,58.333333333333336,175.0,average,pass
+female,group c,some college,standard,none,55.0,69.0,65.0,63.0,189.0,good,pass
+female,group c,bachelor's degree,standard,completed,79.0,92.0,89.0,86.66666666666667,260.0,excellent,pass
+male,group b,associate's degree,standard,completed,91.0,89.0,92.0,90.66666666666667,272.0,excellent,pass
+female,group c,some college,standard,completed,88.0,93.0,93.0,91.33333333333333,274.0,excellent,pass
+male,group d,high school,free/reduced,none,63.0,57.0,56.0,58.666666666666664,176.0,average,pass
+male,group e,some college,standard,none,83.0,80.0,73.0,78.66666666666667,236.0,good,pass
+female,group b,high school,standard,none,87.0,95.0,86.0,89.33333333333333,268.0,excellent,pass
+male,group b,some high school,standard,none,72.0,68.0,67.0,69.0,207.0,good,pass
+male,group d,some college,standard,completed,65.0,77.0,74.0,72.0,216.0,good,pass
+male,group d,master's degree,standard,none,82.0,82.0,74.0,79.33333333333333,238.0,good,pass
+female,group a,bachelor's degree,standard,none,51.0,49.0,51.0,50.333333333333336,151.0,average,pass
+male,group d,master's degree,standard,none,89.0,84.0,82.0,85.0,255.0,excellent,pass
+male,group c,some high school,free/reduced,completed,53.0,37.0,40.0,43.333333333333336,130.0,average,fail
+male,group e,some college,free/reduced,completed,87.0,74.0,70.0,77.0,231.0,good,pass
+female,group c,some college,standard,completed,75.0,81.0,84.0,80.0,240.0,excellent,pass
+male,group d,bachelor's degree,free/reduced,completed,74.0,79.0,75.0,76.0,228.0,good,pass
+male,group c,bachelor's degree,standard,none,58.0,55.0,48.0,53.666666666666664,161.0,average,pass
+male,group b,some high school,standard,completed,51.0,54.0,41.0,48.666666666666664,146.0,average,pass
+male,group e,high school,standard,none,70.0,55.0,56.0,60.333333333333336,181.0,good,pass
+female,group c,associate's degree,standard,none,59.0,66.0,67.0,64.0,192.0,good,pass
+male,group d,some college,standard,completed,71.0,61.0,69.0,67.0,201.0,good,pass
+female,group d,some high school,standard,none,76.0,72.0,71.0,73.0,219.0,good,pass
+female,group c,some college,free/reduced,none,59.0,62.0,64.0,61.666666666666664,185.0,good,pass
+female,group e,some college,free/reduced,completed,42.0,55.0,54.0,50.333333333333336,151.0,average,pass
+male,group a,high school,standard,none,57.0,43.0,47.0,49.0,147.0,average,pass
+male,group d,some college,standard,none,88.0,73.0,78.0,79.66666666666667,239.0,good,pass
+female,group c,some college,free/reduced,none,27.0,39.0,33.0,33.0,99.0,poor,fail
+male,group b,some high school,standard,none,88.0,84.0,75.0,82.33333333333333,247.0,excellent,pass
+male,group c,associate's degree,free/reduced,none,73.0,68.0,66.0,69.0,207.0,good,pass
+female,group d,bachelor's degree,standard,completed,68.0,75.0,81.0,74.66666666666667,224.0,good,pass
+male,group e,associate's degree,free/reduced,completed,100.0,100.0,93.0,97.66666666666667,293.0,excellent,pass
+male,group a,some high school,standard,completed,62.0,67.0,69.0,66.0,198.0,good,pass
+male,group a,bachelor's degree,standard,none,77.0,67.0,68.0,70.66666666666667,212.0,good,pass
+female,group b,associate's degree,standard,completed,59.0,70.0,66.0,65.0,195.0,good,pass
+male,group d,bachelor's degree,standard,none,54.0,49.0,47.0,50.0,150.0,average,pass
+male,group d,some high school,standard,none,62.0,67.0,61.0,63.333333333333336,190.0,good,pass
+female,group c,some college,standard,completed,70.0,89.0,88.0,82.33333333333333,247.0,excellent,pass
+female,group e,high school,free/reduced,completed,66.0,74.0,78.0,72.66666666666667,218.0,good,pass
+male,group b,some college,free/reduced,none,60.0,60.0,60.0,60.0,180.0,good,pass
+female,group b,associate's degree,standard,completed,61.0,86.0,87.0,78.0,234.0,good,pass
+male,group d,associate's degree,free/reduced,none,66.0,62.0,64.0,64.0,192.0,good,pass
+male,group b,associate's degree,free/reduced,completed,82.0,78.0,74.0,78.0,234.0,good,pass
+female,group e,some college,free/reduced,completed,75.0,88.0,85.0,82.66666666666667,248.0,excellent,pass
+male,group b,master's degree,free/reduced,none,49.0,53.0,52.0,51.333333333333336,154.0,average,pass
+male,group c,high school,standard,none,52.0,53.0,49.0,51.333333333333336,154.0,average,pass
+female,group e,master's degree,standard,none,81.0,92.0,91.0,88.0,264.0,excellent,pass
+female,group c,bachelor's degree,standard,completed,96.0,100.0,100.0,98.66666666666667,296.0,excellent,pass
+male,group c,high school,free/reduced,completed,53.0,51.0,51.0,51.666666666666664,155.0,average,pass
+female,group b,master's degree,free/reduced,completed,58.0,76.0,78.0,70.66666666666667,212.0,good,pass
+female,group b,high school,standard,completed,68.0,83.0,78.0,76.33333333333333,229.0,good,pass
+female,group c,some college,free/reduced,completed,67.0,75.0,70.0,70.66666666666667,212.0,good,pass
+male,group a,high school,standard,completed,72.0,73.0,74.0,73.0,219.0,good,pass
+male,group e,some high school,standard,none,94.0,88.0,78.0,86.66666666666667,260.0,excellent,pass
+female,group d,some college,standard,none,79.0,86.0,81.0,82.0,246.0,excellent,pass
+female,group c,associate's degree,standard,none,63.0,67.0,70.0,66.66666666666667,200.0,good,pass
+female,group c,bachelor's degree,free/reduced,completed,43.0,51.0,54.0,49.333333333333336,148.0,average,pass
+female,group c,master's degree,standard,completed,81.0,91.0,87.0,86.33333333333333,259.0,excellent,pass
+female,group b,high school,free/reduced,completed,46.0,54.0,58.0,52.666666666666664,158.0,average,pass
+female,group c,associate's degree,standard,completed,71.0,77.0,77.0,75.0,225.0,good,pass
+female,group b,master's degree,free/reduced,completed,52.0,70.0,62.0,61.333333333333336,184.0,good,pass
+female,group d,some high school,standard,completed,97.0,100.0,100.0,99.0,297.0,excellent,pass
+male,group c,master's degree,free/reduced,completed,62.0,68.0,75.0,68.33333333333333,205.0,good,pass
+female,group c,some college,free/reduced,none,46.0,64.0,66.0,58.666666666666664,176.0,average,pass
+female,group e,high school,standard,none,50.0,50.0,47.0,49.0,147.0,average,pass
+female,group d,associate's degree,standard,none,65.0,69.0,70.0,68.0,204.0,good,pass
+male,group c,some high school,free/reduced,completed,45.0,52.0,49.0,48.666666666666664,146.0,average,pass
+male,group c,associate's degree,free/reduced,completed,65.0,67.0,65.0,65.66666666666667,197.0,good,pass
+male,group e,high school,standard,none,80.0,76.0,65.0,73.66666666666667,221.0,good,pass
+male,group d,some high school,standard,completed,62.0,66.0,68.0,65.33333333333333,196.0,good,pass
+male,group b,some high school,free/reduced,none,48.0,52.0,45.0,48.333333333333336,145.0,average,pass
+female,group c,bachelor's degree,standard,none,77.0,88.0,87.0,84.0,252.0,excellent,pass
+female,group e,associate's degree,standard,none,66.0,65.0,69.0,66.66666666666667,200.0,good,pass
+male,group d,some college,standard,completed,76.0,83.0,79.0,79.33333333333333,238.0,good,pass
+female,group b,some high school,standard,none,62.0,64.0,66.0,64.0,192.0,good,pass
+male,group d,some college,standard,completed,77.0,62.0,62.0,67.0,201.0,good,pass
+female,group c,master's degree,standard,completed,69.0,84.0,85.0,79.33333333333333,238.0,good,pass
+male,group d,associate's degree,standard,none,61.0,55.0,52.0,56.0,168.0,average,pass
+male,group c,some high school,free/reduced,completed,59.0,69.0,65.0,64.33333333333333,193.0,good,pass
+male,group e,high school,free/reduced,none,55.0,56.0,51.0,54.0,162.0,average,pass
+female,group b,some college,free/reduced,none,45.0,53.0,55.0,51.0,153.0,average,pass
+female,group b,bachelor's degree,free/reduced,none,78.0,79.0,76.0,77.66666666666667,233.0,good,pass
+female,group c,associate's degree,standard,completed,67.0,84.0,86.0,79.0,237.0,good,pass
+female,group d,some college,free/reduced,none,65.0,81.0,77.0,74.33333333333333,223.0,good,pass
+male,group c,associate's degree,standard,none,69.0,77.0,69.0,71.66666666666667,215.0,good,pass
+female,group b,associate's degree,standard,none,57.0,69.0,68.0,64.66666666666667,194.0,good,pass
+male,group c,some college,standard,none,59.0,41.0,42.0,47.333333333333336,142.0,average,pass
+male,group d,some high school,standard,completed,74.0,71.0,78.0,74.33333333333333,223.0,good,pass
+male,group e,bachelor's degree,standard,none,82.0,62.0,62.0,68.66666666666667,206.0,good,pass
+male,group e,high school,standard,completed,81.0,80.0,76.0,79.0,237.0,good,pass
+female,group b,some college,free/reduced,none,74.0,81.0,76.0,77.0,231.0,good,pass
+female,group b,some college,free/reduced,none,58.0,61.0,66.0,61.666666666666664,185.0,good,pass
+male,group d,some high school,free/reduced,completed,80.0,79.0,79.0,79.33333333333333,238.0,good,pass
+male,group c,some college,free/reduced,none,35.0,29.0,27.0,30.333333333333332,91.0,poor,fail
+female,group c,high school,free/reduced,none,42.0,62.0,60.0,54.666666666666664,164.0,average,pass
+male,group c,associate's degree,free/reduced,completed,60.0,51.0,56.0,55.666666666666664,167.0,average,pass
+male,group e,high school,standard,completed,87.0,91.0,81.0,86.33333333333333,259.0,excellent,pass
+male,group b,some high school,standard,completed,84.0,83.0,75.0,80.66666666666667,242.0,excellent,pass
+female,group e,associate's degree,free/reduced,completed,83.0,86.0,88.0,85.66666666666667,257.0,excellent,pass
+female,group c,high school,free/reduced,none,34.0,42.0,39.0,38.333333333333336,115.0,poor,fail
+male,group b,high school,free/reduced,none,66.0,77.0,70.0,71.0,213.0,good,pass
+male,group b,some high school,standard,completed,61.0,56.0,56.0,57.666666666666664,173.0,average,pass
+female,group d,high school,standard,completed,56.0,68.0,74.0,66.0,198.0,good,pass
+male,group b,associate's degree,standard,none,87.0,85.0,73.0,81.66666666666667,245.0,excellent,pass
+female,group c,some high school,free/reduced,none,55.0,65.0,62.0,60.666666666666664,182.0,good,pass
+male,group d,some high school,standard,none,86.0,80.0,75.0,80.33333333333333,241.0,excellent,pass
+female,group b,associate's degree,standard,completed,52.0,66.0,73.0,63.666666666666664,191.0,good,pass
+female,group e,master's degree,free/reduced,none,45.0,56.0,54.0,51.666666666666664,155.0,average,pass
+female,group c,some college,standard,none,72.0,72.0,71.0,71.66666666666667,215.0,good,pass
+male,group d,high school,standard,none,57.0,50.0,54.0,53.666666666666664,161.0,average,pass
+male,group a,some high school,free/reduced,none,68.0,72.0,64.0,68.0,204.0,good,pass
+female,group c,some college,standard,completed,88.0,95.0,94.0,92.33333333333333,277.0,excellent,pass
+male,group d,some college,standard,none,76.0,64.0,66.0,68.66666666666667,206.0,good,pass
+male,group c,associate's degree,standard,none,46.0,43.0,42.0,43.666666666666664,131.0,average,pass
+female,group b,bachelor's degree,standard,none,67.0,86.0,83.0,78.66666666666667,236.0,good,pass
+male,group e,some high school,standard,none,92.0,87.0,78.0,85.66666666666667,257.0,excellent,pass
+male,group c,bachelor's degree,standard,completed,83.0,82.0,84.0,83.0,249.0,excellent,pass
+male,group d,associate's degree,standard,none,80.0,75.0,77.0,77.33333333333333,232.0,good,pass
+male,group d,bachelor's degree,free/reduced,none,63.0,66.0,67.0,65.33333333333333,196.0,good,pass
+female,group d,some high school,standard,completed,64.0,60.0,74.0,66.0,198.0,good,pass
+male,group b,some college,standard,none,54.0,52.0,51.0,52.333333333333336,157.0,average,pass
+male,group c,associate's degree,standard,none,84.0,80.0,80.0,81.33333333333333,244.0,excellent,pass
+male,group d,high school,free/reduced,completed,73.0,68.0,66.0,69.0,207.0,good,pass
+female,group e,bachelor's degree,standard,none,80.0,83.0,83.0,82.0,246.0,excellent,pass
+female,group d,high school,standard,none,56.0,52.0,55.0,54.333333333333336,163.0,average,pass
+male,group e,some college,standard,none,59.0,51.0,43.0,51.0,153.0,average,pass
+male,group d,some high school,standard,none,75.0,74.0,69.0,72.66666666666667,218.0,good,pass
+male,group c,associate's degree,standard,none,85.0,76.0,71.0,77.33333333333333,232.0,good,pass
+male,group e,associate's degree,standard,none,89.0,76.0,74.0,79.66666666666667,239.0,good,pass
+female,group b,high school,standard,completed,58.0,70.0,68.0,65.33333333333333,196.0,good,pass
+female,group b,high school,standard,none,65.0,64.0,62.0,63.666666666666664,191.0,good,pass
+male,group c,high school,standard,none,68.0,60.0,53.0,60.333333333333336,181.0,good,pass
+male,group a,some high school,standard,completed,47.0,49.0,49.0,48.333333333333336,145.0,average,pass
+female,group d,some college,free/reduced,none,71.0,83.0,83.0,79.0,237.0,good,pass
+female,group b,some high school,standard,completed,60.0,70.0,70.0,66.66666666666667,200.0,good,pass
+male,group d,master's degree,standard,none,80.0,80.0,72.0,77.33333333333333,232.0,good,pass
+male,group d,high school,standard,none,54.0,52.0,52.0,52.666666666666664,158.0,average,pass
+female,group e,some college,standard,none,62.0,73.0,70.0,68.33333333333333,205.0,good,pass
+female,group c,associate's degree,free/reduced,none,64.0,73.0,68.0,68.33333333333333,205.0,good,pass
+male,group c,associate's degree,standard,completed,78.0,77.0,77.0,77.33333333333333,232.0,good,pass
+female,group b,some college,standard,none,70.0,75.0,78.0,74.33333333333333,223.0,good,pass
+female,group c,master's degree,free/reduced,completed,65.0,81.0,81.0,75.66666666666667,227.0,good,pass
+female,group c,some high school,free/reduced,completed,64.0,79.0,77.0,73.33333333333333,220.0,good,pass
+male,group c,some college,standard,completed,79.0,79.0,78.0,78.66666666666667,236.0,good,pass
+female,group c,some high school,free/reduced,none,44.0,50.0,51.0,48.333333333333336,145.0,average,pass
+female,group e,high school,standard,none,99.0,93.0,90.0,94.0,282.0,excellent,pass
+male,group d,high school,standard,none,76.0,73.0,68.0,72.33333333333333,217.0,good,pass
+male,group d,some high school,free/reduced,none,59.0,42.0,41.0,47.333333333333336,142.0,average,pass
+female,group c,bachelor's degree,standard,none,63.0,75.0,81.0,73.0,219.0,good,pass
+female,group d,high school,standard,none,69.0,72.0,77.0,72.66666666666667,218.0,good,pass
+female,group d,associate's degree,standard,completed,88.0,92.0,95.0,91.66666666666667,275.0,excellent,pass
+female,group e,some college,free/reduced,none,71.0,76.0,70.0,72.33333333333333,217.0,good,pass
+male,group c,bachelor's degree,standard,none,69.0,63.0,61.0,64.33333333333333,193.0,good,pass
+male,group c,some college,standard,none,58.0,49.0,42.0,49.666666666666664,149.0,average,pass
+female,group d,associate's degree,free/reduced,none,47.0,53.0,58.0,52.666666666666664,158.0,average,pass
+female,group d,some college,standard,none,65.0,70.0,71.0,68.66666666666667,206.0,good,pass
+male,group b,some college,standard,completed,88.0,85.0,76.0,83.0,249.0,excellent,pass
+male,group c,bachelor's degree,standard,none,83.0,78.0,73.0,78.0,234.0,good,pass
+female,group c,some high school,standard,completed,85.0,92.0,93.0,90.0,270.0,excellent,pass
+female,group e,high school,standard,completed,59.0,63.0,75.0,65.66666666666667,197.0,good,pass
+female,group c,some high school,free/reduced,none,65.0,86.0,80.0,77.0,231.0,good,pass
+male,group b,bachelor's degree,free/reduced,none,73.0,56.0,57.0,62.0,186.0,good,pass
+male,group d,high school,standard,none,53.0,52.0,42.0,49.0,147.0,average,pass
+male,group d,high school,standard,none,45.0,48.0,46.0,46.333333333333336,139.0,average,pass
+female,group d,bachelor's degree,free/reduced,none,73.0,79.0,84.0,78.66666666666667,236.0,good,pass
+female,group d,some college,free/reduced,completed,70.0,78.0,78.0,75.33333333333333,226.0,good,pass
+female,group b,some high school,standard,none,37.0,46.0,46.0,43.0,129.0,average,fail
+male,group b,associate's degree,standard,completed,81.0,82.0,82.0,81.66666666666667,245.0,excellent,pass
+male,group e,associate's degree,standard,completed,97.0,82.0,88.0,89.0,267.0,excellent,pass
+female,group b,some high school,standard,none,67.0,89.0,82.0,79.33333333333333,238.0,good,pass
+male,group b,bachelor's degree,free/reduced,none,88.0,75.0,76.0,79.66666666666667,239.0,good,pass
+male,group e,some high school,standard,completed,77.0,76.0,77.0,76.66666666666667,230.0,good,pass
+male,group c,associate's degree,standard,none,76.0,70.0,68.0,71.33333333333333,214.0,good,pass
+male,group d,some high school,standard,none,86.0,73.0,70.0,76.33333333333333,229.0,good,pass
+male,group c,some high school,standard,completed,63.0,60.0,57.0,60.0,180.0,good,pass
+female,group e,bachelor's degree,standard,none,65.0,73.0,75.0,71.0,213.0,good,pass
+male,group d,high school,free/reduced,completed,78.0,77.0,80.0,78.33333333333333,235.0,good,pass
+male,group b,associate's degree,free/reduced,none,67.0,62.0,60.0,63.0,189.0,good,pass
+male,group a,some high school,standard,completed,46.0,41.0,43.0,43.333333333333336,130.0,average,pass
+male,group e,associate's degree,standard,completed,71.0,74.0,68.0,71.0,213.0,good,pass
+male,group c,high school,free/reduced,completed,40.0,46.0,50.0,45.333333333333336,136.0,average,pass
+male,group d,associate's degree,free/reduced,none,90.0,87.0,75.0,84.0,252.0,excellent,pass
+male,group a,some college,free/reduced,completed,81.0,78.0,81.0,80.0,240.0,excellent,pass
+male,group d,some high school,free/reduced,none,56.0,54.0,52.0,54.0,162.0,average,pass
+female,group c,associate's degree,standard,completed,67.0,84.0,81.0,77.33333333333333,232.0,good,pass
+male,group b,associate's degree,standard,none,80.0,76.0,64.0,73.33333333333333,220.0,good,pass
+female,group c,associate's degree,standard,completed,74.0,75.0,83.0,77.33333333333333,232.0,good,pass
+male,group a,some college,standard,none,69.0,67.0,69.0,68.33333333333333,205.0,good,pass
+male,group e,some college,standard,completed,99.0,87.0,81.0,89.0,267.0,excellent,pass
+male,group c,some high school,standard,none,51.0,52.0,44.0,49.0,147.0,average,pass
+female,group b,associate's degree,free/reduced,none,53.0,71.0,67.0,63.666666666666664,191.0,good,pass
+female,group d,high school,free/reduced,none,49.0,57.0,52.0,52.666666666666664,158.0,average,pass
+female,group b,associate's degree,standard,none,73.0,76.0,80.0,76.33333333333333,229.0,good,pass
+male,group b,bachelor's degree,standard,none,66.0,60.0,57.0,61.0,183.0,good,pass
+male,group d,bachelor's degree,standard,completed,67.0,61.0,68.0,65.33333333333333,196.0,good,pass
+female,group c,associate's degree,free/reduced,completed,68.0,67.0,69.0,68.0,204.0,good,pass
+female,group c,bachelor's degree,standard,completed,59.0,64.0,75.0,66.0,198.0,good,pass
+male,group c,high school,standard,none,71.0,66.0,65.0,67.33333333333333,202.0,good,pass
+female,group d,master's degree,standard,completed,77.0,82.0,91.0,83.33333333333333,250.0,excellent,pass
+male,group c,associate's degree,standard,none,83.0,72.0,78.0,77.66666666666667,233.0,good,pass
+male,group b,bachelor's degree,standard,none,63.0,71.0,69.0,67.66666666666667,203.0,good,pass
+female,group d,associate's degree,free/reduced,none,56.0,65.0,63.0,61.333333333333336,184.0,good,pass
+female,group c,high school,free/reduced,completed,67.0,79.0,84.0,76.66666666666667,230.0,good,pass
+female,group e,high school,standard,none,75.0,86.0,79.0,80.0,240.0,excellent,pass
+female,group c,some college,standard,none,71.0,81.0,80.0,77.33333333333333,232.0,good,pass
+female,group c,some high school,free/reduced,none,43.0,53.0,53.0,49.666666666666664,149.0,average,pass
+female,group c,high school,free/reduced,none,41.0,46.0,43.0,43.333333333333336,130.0,average,pass
+female,group c,some college,standard,none,82.0,90.0,94.0,88.66666666666667,266.0,excellent,pass
+male,group c,some college,standard,none,61.0,61.0,62.0,61.333333333333336,184.0,good,pass
+male,group a,some college,free/reduced,none,28.0,29.0,25.875,27.625,82.875,poor,fail
+male,group c,associate's degree,standard,completed,82.0,75.0,77.0,78.0,234.0,good,pass
+female,group b,some high school,standard,none,41.0,55.0,51.0,49.0,147.0,average,pass
+male,group c,high school,standard,none,71.0,60.0,61.0,64.0,192.0,good,pass
+male,group c,associate's degree,standard,none,47.0,37.0,35.0,39.666666666666664,119.0,poor,fail
+male,group e,associate's degree,standard,completed,62.0,56.0,53.0,57.0,171.0,average,pass
+male,group b,associate's degree,standard,none,90.0,78.0,81.0,83.0,249.0,excellent,pass
+female,group c,bachelor's degree,standard,none,83.0,93.0,95.0,90.33333333333333,271.0,excellent,pass
+female,group b,some college,free/reduced,none,61.0,68.0,66.0,65.0,195.0,good,pass
+male,group d,some high school,standard,completed,76.0,70.0,69.0,71.66666666666667,215.0,good,pass
+male,group c,associate's degree,standard,none,49.0,51.0,43.0,47.666666666666664,143.0,average,pass
+female,group b,some high school,free/reduced,none,27.0,38.0,27.0,30.666666666666668,92.0,poor,fail
+female,group d,some high school,free/reduced,completed,35.0,55.0,60.0,50.0,150.0,average,fail
+male,group c,high school,free/reduced,none,58.0,61.0,52.0,57.0,171.0,average,pass
+female,group c,high school,standard,none,61.0,73.0,63.0,65.66666666666667,197.0,good,pass
+female,group b,high school,standard,completed,69.0,76.0,74.0,73.0,219.0,good,pass
+male,group d,associate's degree,standard,completed,67.0,72.0,67.0,68.66666666666667,206.0,good,pass
+male,group d,some college,standard,none,79.0,73.0,67.0,73.0,219.0,good,pass
+female,group c,high school,standard,none,72.0,80.0,75.0,75.66666666666667,227.0,good,pass
+male,group b,some college,standard,none,62.0,61.0,57.0,60.0,180.0,good,pass
+female,group c,bachelor's degree,standard,completed,77.0,94.0,95.0,88.66666666666667,266.0,excellent,pass
+male,group d,high school,free/reduced,none,75.0,74.0,66.0,71.66666666666667,215.0,good,pass
+male,group e,associate's degree,standard,none,87.0,74.0,76.0,79.0,237.0,good,pass
+female,group b,bachelor's degree,standard,none,52.0,65.0,69.0,62.0,186.0,good,pass
+male,group e,some college,standard,none,66.0,57.0,52.0,58.333333333333336,175.0,average,pass
+female,group c,some college,standard,completed,63.0,78.0,80.0,73.66666666666667,221.0,good,pass
+female,group c,associate's degree,standard,none,46.0,58.0,57.0,53.666666666666664,161.0,average,pass
+female,group c,some college,standard,none,59.0,71.0,70.0,66.66666666666667,200.0,good,pass
+female,group b,bachelor's degree,standard,none,61.0,72.0,70.0,67.66666666666667,203.0,good,pass
+male,group a,associate's degree,standard,none,63.0,61.0,61.0,61.666666666666664,185.0,good,pass
+female,group c,some college,free/reduced,completed,42.0,66.0,69.0,59.0,177.0,average,pass
+male,group d,some college,free/reduced,none,59.0,62.0,61.0,60.666666666666664,182.0,good,pass
+female,group d,some college,standard,none,80.0,90.0,89.0,86.33333333333333,259.0,excellent,pass
+female,group b,high school,standard,none,58.0,62.0,59.0,59.666666666666664,179.0,average,pass
+male,group b,some high school,standard,completed,85.0,84.0,78.0,82.33333333333333,247.0,excellent,pass
+female,group c,some college,standard,none,52.0,58.0,58.0,56.0,168.0,average,pass
+female,group d,some high school,free/reduced,none,27.0,34.0,32.0,31.0,93.0,poor,fail
+male,group c,some college,standard,none,59.0,60.0,58.0,59.0,177.0,average,pass
+male,group a,bachelor's degree,free/reduced,completed,49.0,58.0,60.0,55.666666666666664,167.0,average,pass
+male,group c,high school,standard,completed,69.0,58.0,53.0,60.0,180.0,good,pass
+male,group c,bachelor's degree,free/reduced,none,61.0,66.0,61.0,62.666666666666664,188.0,good,pass
+female,group a,some high school,free/reduced,none,44.0,64.0,58.0,55.333333333333336,166.0,average,pass
+female,group d,some high school,standard,none,73.0,84.0,85.0,80.66666666666667,242.0,excellent,pass
+male,group e,some college,standard,none,84.0,77.0,71.0,77.33333333333333,232.0,good,pass
+female,group c,some college,free/reduced,completed,45.0,73.0,70.0,62.666666666666664,188.0,good,pass
+male,group d,some high school,standard,none,74.0,74.0,72.0,73.33333333333333,220.0,good,pass
+female,group d,some college,standard,completed,82.0,97.0,96.0,91.66666666666667,275.0,excellent,pass
+female,group d,bachelor's degree,standard,none,59.0,70.0,73.0,67.33333333333333,202.0,good,pass
+male,group e,associate's degree,free/reduced,none,46.0,43.0,41.0,43.333333333333336,130.0,average,pass
+female,group d,some high school,standard,none,80.0,90.0,82.0,84.0,252.0,excellent,pass
+female,group d,master's degree,free/reduced,completed,85.0,95.0,100.0,93.33333333333333,280.0,excellent,pass
+female,group a,some high school,standard,none,71.0,83.0,77.0,77.0,231.0,good,pass
+male,group a,bachelor's degree,standard,none,66.0,64.0,62.0,64.0,192.0,good,pass
+female,group b,associate's degree,standard,none,80.0,86.0,83.0,83.0,249.0,excellent,pass
+male,group c,associate's degree,standard,completed,87.0,100.0,95.0,94.0,282.0,excellent,pass
+male,group c,master's degree,free/reduced,none,79.0,81.0,71.0,77.0,231.0,good,pass
+female,group e,some high school,free/reduced,none,38.0,49.0,45.0,44.0,132.0,average,fail
+female,group a,some high school,free/reduced,none,38.0,43.0,43.0,41.333333333333336,124.0,average,fail
+female,group e,some college,standard,none,67.0,76.0,75.0,72.66666666666667,218.0,good,pass
+female,group e,bachelor's degree,standard,none,64.0,73.0,70.0,69.0,207.0,good,pass
+female,group c,associate's degree,free/reduced,none,57.0,78.0,67.0,67.33333333333333,202.0,good,pass
+female,group d,high school,standard,none,62.0,64.0,64.0,63.333333333333336,190.0,good,pass
+male,group d,master's degree,standard,none,73.0,70.0,75.0,72.66666666666667,218.0,good,pass
+male,group e,some high school,free/reduced,completed,73.0,67.0,59.0,66.33333333333333,199.0,good,pass
+female,group d,some college,standard,none,77.0,68.0,77.0,74.0,222.0,good,pass
+male,group e,some college,standard,none,76.0,67.0,67.0,70.0,210.0,good,pass
+male,group c,associate's degree,standard,completed,57.0,54.0,56.0,55.666666666666664,167.0,average,pass
+female,group c,some high school,standard,completed,65.0,74.0,77.0,72.0,216.0,good,pass
+male,group a,high school,free/reduced,none,48.0,45.0,41.0,44.666666666666664,134.0,average,pass
+female,group b,high school,free/reduced,none,50.0,67.0,63.0,60.0,180.0,good,pass
+female,group c,associate's degree,standard,none,85.0,89.0,95.0,89.66666666666667,269.0,excellent,pass
+male,group b,some high school,standard,none,74.0,63.0,57.0,64.66666666666667,194.0,good,pass
+male,group d,some high school,standard,none,60.0,59.0,54.0,57.666666666666664,173.0,average,pass
+female,group c,some high school,standard,completed,59.0,54.0,67.0,60.0,180.0,good,pass
+male,group a,some college,standard,none,53.0,43.0,43.0,46.333333333333336,139.0,average,pass
+female,group a,some college,free/reduced,none,49.0,65.0,55.0,56.333333333333336,169.0,average,pass
+female,group d,high school,standard,completed,88.0,99.0,100.0,95.66666666666667,287.0,excellent,pass
+female,group c,high school,standard,none,54.0,59.0,62.0,58.333333333333336,175.0,average,pass
+female,group c,some high school,standard,none,63.0,73.0,68.0,68.0,204.0,good,pass
+male,group b,associate's degree,standard,completed,65.0,65.0,63.0,64.33333333333333,193.0,good,pass
+female,group b,associate's degree,standard,none,82.0,80.0,77.0,79.66666666666667,239.0,good,pass
+female,group d,high school,free/reduced,completed,52.0,57.0,56.0,55.0,165.0,average,pass
+male,group d,associate's degree,standard,completed,87.0,84.0,85.0,85.33333333333333,256.0,excellent,pass
+female,group d,master's degree,standard,completed,70.0,71.0,74.0,71.66666666666667,215.0,good,pass
+male,group e,some college,standard,completed,84.0,83.0,78.0,81.66666666666667,245.0,excellent,pass
+male,group d,associate's degree,standard,none,71.0,66.0,60.0,65.66666666666667,197.0,good,pass
+male,group b,some high school,standard,completed,63.0,67.0,67.0,65.66666666666667,197.0,good,pass
+female,group c,bachelor's degree,free/reduced,completed,51.0,72.0,79.0,67.33333333333333,202.0,good,pass
+male,group e,high school,standard,none,84.0,73.0,69.0,75.33333333333333,226.0,good,pass
+male,group c,bachelor's degree,standard,completed,71.0,74.0,68.0,71.0,213.0,good,pass
+male,group c,associate's degree,standard,none,74.0,73.0,67.0,71.33333333333333,214.0,good,pass
+male,group d,some college,standard,none,68.0,59.0,62.0,63.0,189.0,good,pass
+male,group e,high school,free/reduced,completed,57.0,56.0,54.0,55.666666666666664,167.0,average,pass
+female,group c,associate's degree,free/reduced,completed,82.0,93.0,93.0,89.33333333333333,268.0,excellent,pass
+female,group d,high school,standard,completed,57.0,58.0,64.0,59.666666666666664,179.0,average,pass
+female,group d,master's degree,free/reduced,completed,47.0,58.0,67.0,57.333333333333336,172.0,average,pass
+female,group a,some high school,standard,completed,59.0,85.0,80.0,74.66666666666667,224.0,good,pass
+male,group b,some college,free/reduced,none,41.0,39.0,34.0,38.0,114.0,poor,fail
+female,group c,some college,free/reduced,none,62.0,67.0,62.0,63.666666666666664,191.0,good,pass
+male,group c,bachelor's degree,standard,none,86.0,83.0,86.0,85.0,255.0,excellent,pass
+male,group c,some high school,free/reduced,none,69.0,71.0,65.0,68.33333333333333,205.0,good,pass
+male,group a,some high school,free/reduced,none,65.0,59.0,53.0,59.0,177.0,average,pass
+male,group c,some high school,free/reduced,none,68.0,63.0,54.0,61.666666666666664,185.0,good,pass
+male,group c,associate's degree,free/reduced,none,64.0,66.0,59.0,63.0,189.0,good,pass
+female,group c,high school,standard,none,61.0,72.0,70.0,67.66666666666667,203.0,good,pass
+male,group c,high school,standard,none,61.0,56.0,55.0,57.333333333333336,172.0,average,pass
+female,group a,some high school,free/reduced,none,47.0,59.0,50.0,52.0,156.0,average,pass
+male,group c,some high school,standard,none,73.0,66.0,66.0,68.33333333333333,205.0,good,pass
+male,group c,some college,free/reduced,completed,50.0,48.0,53.0,50.333333333333336,151.0,average,pass
+male,group d,associate's degree,standard,none,75.0,68.0,64.0,69.0,207.0,good,pass
+male,group d,associate's degree,free/reduced,none,75.0,66.0,73.0,71.33333333333333,214.0,good,pass
+male,group c,high school,standard,none,70.0,56.0,51.0,59.0,177.0,average,pass
+male,group d,some high school,standard,completed,89.0,88.0,82.0,86.33333333333333,259.0,excellent,pass
+female,group c,some college,standard,completed,67.0,81.0,79.0,75.66666666666667,227.0,good,pass
+female,group d,high school,standard,none,78.0,81.0,80.0,79.66666666666667,239.0,good,pass
+female,group a,some high school,free/reduced,none,59.0,73.0,69.0,67.0,201.0,good,pass
+female,group b,associate's degree,standard,none,73.0,83.0,76.0,77.33333333333333,232.0,good,pass
+male,group a,some high school,free/reduced,none,79.0,82.0,73.0,78.0,234.0,good,pass
+female,group c,some high school,standard,completed,67.0,74.0,77.0,72.66666666666667,218.0,good,pass
+male,group d,some college,free/reduced,none,69.0,66.0,60.0,65.0,195.0,good,pass
+male,group c,high school,standard,completed,86.0,81.0,80.0,82.33333333333333,247.0,excellent,pass
+male,group b,high school,standard,none,47.0,46.0,42.0,45.0,135.0,average,pass
+male,group b,associate's degree,standard,none,81.0,73.0,72.0,75.33333333333333,226.0,good,pass
+female,group c,some college,free/reduced,completed,64.0,85.0,85.0,78.0,234.0,good,pass
+female,group e,some college,standard,none,100.0,92.0,97.0,96.33333333333333,289.0,excellent,pass
+female,group c,associate's degree,free/reduced,none,65.0,77.0,74.0,72.0,216.0,good,pass
+male,group c,some college,free/reduced,none,65.0,58.0,49.0,57.333333333333336,172.0,average,pass
+female,group c,associate's degree,free/reduced,none,53.0,61.0,62.0,58.666666666666664,176.0,average,pass
+male,group c,bachelor's degree,free/reduced,none,37.0,56.0,47.0,46.666666666666664,140.0,average,fail
+female,group d,bachelor's degree,standard,none,79.0,89.0,89.0,85.66666666666667,257.0,excellent,pass
+male,group d,associate's degree,free/reduced,none,53.0,54.0,48.0,51.666666666666664,155.0,average,pass
+female,group e,bachelor's degree,standard,none,100.0,100.0,100.0,100.0,300.0,excellent,pass
+male,group b,high school,standard,completed,72.0,65.0,68.0,68.33333333333333,205.0,good,pass
+male,group c,bachelor's degree,free/reduced,none,53.0,58.0,55.0,55.333333333333336,166.0,average,pass
+male,group b,some college,free/reduced,none,54.0,54.0,45.0,51.0,153.0,average,pass
+female,group e,some college,standard,none,71.0,70.0,76.0,72.33333333333333,217.0,good,pass
+female,group c,some college,free/reduced,none,77.0,90.0,91.0,86.0,258.0,excellent,pass
+male,group a,bachelor's degree,standard,completed,75.0,58.0,62.0,65.0,195.0,good,pass
+female,group c,some college,standard,none,84.0,87.0,91.0,87.33333333333333,262.0,excellent,pass
+female,group d,associate's degree,free/reduced,none,27.0,31.0,38.0,32.0,96.0,poor,fail
+male,group a,high school,free/reduced,completed,72.0,67.0,65.0,68.0,204.0,good,pass
+female,group a,high school,free/reduced,completed,77.0,88.0,85.0,83.33333333333333,250.0,excellent,pass
+male,group c,some college,standard,none,91.0,74.0,76.0,80.33333333333333,241.0,excellent,pass
+female,group c,associate's degree,standard,completed,83.0,85.0,90.0,86.0,258.0,excellent,pass
+female,group c,high school,standard,none,63.0,69.0,74.0,68.66666666666667,206.0,good,pass
+female,group c,associate's degree,standard,completed,68.0,86.0,84.0,79.33333333333333,238.0,good,pass
+female,group d,some high school,standard,none,59.0,67.0,61.0,62.333333333333336,187.0,good,pass
+female,group b,associate's degree,standard,completed,90.0,90.0,91.0,90.33333333333333,271.0,excellent,pass
+female,group d,bachelor's degree,standard,completed,71.0,76.0,83.0,76.66666666666667,230.0,good,pass
+male,group e,bachelor's degree,standard,completed,76.0,62.0,66.0,68.0,204.0,good,pass
+male,group d,associate's degree,standard,none,80.0,68.0,72.0,73.33333333333333,220.0,good,pass
+female,group d,master's degree,standard,none,55.0,64.0,70.0,63.0,189.0,good,pass
+male,group e,associate's degree,standard,none,76.0,71.0,67.0,71.33333333333333,214.0,good,pass
+male,group b,high school,standard,completed,73.0,71.0,68.0,70.66666666666667,212.0,good,pass
+female,group d,associate's degree,free/reduced,none,52.0,59.0,56.0,55.666666666666664,167.0,average,pass
+male,group c,some college,free/reduced,none,68.0,68.0,61.0,65.66666666666667,197.0,good,pass
+male,group a,high school,standard,none,59.0,52.0,46.0,52.333333333333336,157.0,average,pass
+female,group b,associate's degree,standard,none,49.0,52.0,54.0,51.666666666666664,155.0,average,pass
+male,group c,high school,standard,none,70.0,74.0,71.0,71.66666666666667,215.0,good,pass
+male,group d,some college,free/reduced,none,61.0,47.0,56.0,54.666666666666664,164.0,average,pass
+female,group c,associate's degree,free/reduced,none,60.0,75.0,74.0,69.66666666666667,209.0,good,pass
+male,group b,some high school,standard,completed,64.0,53.0,57.0,58.0,174.0,average,pass
+male,group a,associate's degree,free/reduced,completed,79.0,82.0,82.0,81.0,243.0,excellent,pass
+female,group a,associate's degree,free/reduced,none,65.0,85.0,76.0,75.33333333333333,226.0,good,pass
+female,group c,associate's degree,standard,none,64.0,64.0,70.0,66.0,198.0,good,pass
+female,group c,some college,standard,none,83.0,83.0,90.0,85.33333333333333,256.0,excellent,pass
+female,group c,bachelor's degree,standard,none,81.0,88.0,90.0,86.33333333333333,259.0,excellent,pass
+female,group b,high school,standard,none,54.0,64.0,68.0,62.0,186.0,good,pass
+male,group d,high school,standard,completed,68.0,64.0,66.0,66.0,198.0,good,pass
+female,group c,some college,standard,none,54.0,48.0,52.0,51.333333333333336,154.0,average,pass
+female,group d,some college,free/reduced,completed,59.0,78.0,76.0,71.0,213.0,good,pass
+female,group b,some high school,standard,none,66.0,69.0,68.0,67.66666666666667,203.0,good,pass
+male,group e,some college,standard,none,76.0,71.0,72.0,73.0,219.0,good,pass
+female,group d,master's degree,standard,none,74.0,79.0,82.0,78.33333333333333,235.0,good,pass
+female,group b,associate's degree,standard,completed,94.0,87.0,92.0,91.0,273.0,excellent,pass
+male,group c,some college,free/reduced,none,63.0,61.0,54.0,59.333333333333336,178.0,average,pass
+female,group e,associate's degree,standard,completed,95.0,89.0,92.0,92.0,276.0,excellent,pass
+female,group d,master's degree,free/reduced,none,40.0,59.0,54.0,51.0,153.0,average,pass
+female,group b,some high school,standard,none,82.0,82.0,80.0,81.33333333333333,244.0,excellent,pass
+male,group a,high school,standard,none,68.0,70.0,66.0,68.0,204.0,good,pass
+male,group b,bachelor's degree,free/reduced,none,55.0,59.0,54.0,56.0,168.0,average,pass
+male,group c,master's degree,standard,none,79.0,78.0,77.0,78.0,234.0,good,pass
+female,group c,bachelor's degree,standard,none,86.0,92.0,87.0,88.33333333333333,265.0,excellent,pass
+male,group d,some college,standard,none,76.0,71.0,73.0,73.33333333333333,220.0,good,pass
+male,group a,some high school,standard,none,64.0,50.0,43.0,52.333333333333336,157.0,average,pass
+male,group d,some high school,free/reduced,none,62.0,49.0,52.0,54.333333333333336,163.0,average,pass
+female,group b,some high school,standard,completed,54.0,61.0,62.0,59.0,177.0,average,pass
+female,group b,master's degree,free/reduced,completed,77.0,97.0,94.0,89.33333333333333,268.0,excellent,pass
+female,group c,some high school,standard,completed,76.0,87.0,85.0,82.66666666666667,248.0,excellent,pass
+female,group d,some college,standard,none,74.0,89.0,84.0,82.33333333333333,247.0,excellent,pass
+female,group e,some college,standard,completed,66.0,74.0,73.0,71.0,213.0,good,pass
+female,group d,some high school,standard,completed,66.0,78.0,78.0,74.0,222.0,good,pass
+female,group b,high school,free/reduced,completed,67.0,78.0,79.0,74.66666666666667,224.0,good,pass
+male,group d,some college,standard,none,71.0,49.0,52.0,57.333333333333336,172.0,average,pass
+female,group c,associate's degree,standard,none,91.0,86.0,84.0,87.0,261.0,excellent,pass
+male,group d,bachelor's degree,standard,none,69.0,58.0,57.0,61.333333333333336,184.0,good,pass
+male,group c,master's degree,free/reduced,none,54.0,59.0,50.0,54.333333333333336,163.0,average,pass
+male,group c,high school,standard,completed,53.0,52.0,49.0,51.333333333333336,154.0,average,pass
+male,group e,some college,standard,none,68.0,60.0,59.0,62.333333333333336,187.0,good,pass
+male,group c,some high school,free/reduced,completed,56.0,61.0,60.0,59.0,177.0,average,pass
+female,group c,high school,free/reduced,none,36.0,53.0,43.0,44.0,132.0,average,fail
+female,group d,bachelor's degree,free/reduced,none,29.0,41.0,47.0,39.0,117.0,poor,fail
+female,group c,associate's degree,standard,none,62.0,74.0,70.0,68.66666666666667,206.0,good,pass
+female,group c,associate's degree,standard,completed,68.0,67.0,73.0,69.33333333333333,208.0,good,pass
+female,group c,some high school,standard,none,47.0,54.0,53.0,51.333333333333336,154.0,average,pass
+male,group e,associate's degree,standard,completed,62.0,61.0,58.0,60.333333333333336,181.0,good,pass
+female,group e,associate's degree,standard,completed,79.0,88.0,94.0,87.0,261.0,excellent,pass
+male,group b,high school,standard,completed,73.0,69.0,68.0,70.0,210.0,good,pass
+female,group c,bachelor's degree,free/reduced,completed,66.0,83.0,83.0,77.33333333333333,232.0,good,pass
+male,group c,associate's degree,standard,completed,51.0,60.0,58.0,56.333333333333336,169.0,average,pass
+female,group d,high school,standard,none,51.0,66.0,62.0,59.666666666666664,179.0,average,pass
+male,group e,bachelor's degree,standard,completed,85.0,66.0,71.0,74.0,222.0,good,pass
+male,group a,associate's degree,standard,completed,97.0,92.0,86.0,91.66666666666667,275.0,excellent,pass
+male,group c,high school,standard,completed,75.0,69.0,68.0,70.66666666666667,212.0,good,pass
+male,group d,associate's degree,free/reduced,completed,79.0,82.0,80.0,80.33333333333333,241.0,excellent,pass
+female,group c,associate's degree,standard,none,81.0,77.0,79.0,79.0,237.0,good,pass
+female,group d,associate's degree,standard,none,82.0,95.0,89.0,88.66666666666667,266.0,excellent,pass
+female,group d,master's degree,standard,none,64.0,63.0,66.0,64.33333333333333,193.0,good,pass
+male,group e,some high school,free/reduced,completed,78.0,83.0,80.0,80.33333333333333,241.0,excellent,pass
+female,group a,some high school,standard,completed,92.0,100.0,97.0,96.33333333333333,289.0,excellent,pass
+male,group c,high school,standard,completed,72.0,67.0,64.0,67.66666666666667,203.0,good,pass
+female,group c,high school,free/reduced,none,62.0,67.0,64.0,64.33333333333333,193.0,good,pass
+male,group c,master's degree,standard,none,79.0,72.0,69.0,73.33333333333333,220.0,good,pass
+male,group c,some high school,free/reduced,none,79.0,76.0,65.0,73.33333333333333,220.0,good,pass
+male,group b,bachelor's degree,free/reduced,completed,87.0,90.0,88.0,88.33333333333333,265.0,excellent,pass
+female,group b,associate's degree,standard,none,40.0,48.0,50.0,46.0,138.0,average,pass
+male,group d,some college,free/reduced,none,77.0,62.0,64.0,67.66666666666667,203.0,good,pass
+male,group e,associate's degree,standard,none,53.0,45.0,40.0,46.0,138.0,average,pass
+female,group c,some college,free/reduced,none,32.0,39.0,33.0,34.666666666666664,104.0,poor,fail
+female,group c,associate's degree,standard,completed,55.0,72.0,79.0,68.66666666666667,206.0,good,pass
+male,group c,master's degree,free/reduced,none,61.0,67.0,66.0,64.66666666666667,194.0,good,pass
+female,group b,associate's degree,free/reduced,none,53.0,70.0,70.0,64.33333333333333,193.0,good,pass
+male,group d,some high school,standard,none,73.0,66.0,62.0,67.0,201.0,good,pass
+female,group d,some college,standard,completed,74.0,75.0,79.0,76.0,228.0,good,pass
+female,group c,some college,standard,none,63.0,74.0,74.0,70.33333333333333,211.0,good,pass
+male,group c,bachelor's degree,standard,completed,96.0,90.0,92.0,92.66666666666667,278.0,excellent,pass
+female,group d,some college,free/reduced,completed,63.0,80.0,80.0,74.33333333333333,223.0,good,pass
+male,group b,bachelor's degree,free/reduced,none,48.0,51.0,46.0,48.333333333333336,145.0,average,pass
+male,group b,associate's degree,standard,none,48.0,43.0,45.0,45.333333333333336,136.0,average,pass
+female,group e,bachelor's degree,free/reduced,completed,92.0,100.0,100.0,97.33333333333333,292.0,excellent,pass
+female,group d,master's degree,free/reduced,completed,61.0,71.0,78.0,70.0,210.0,good,pass
+male,group b,high school,free/reduced,none,63.0,48.0,47.0,52.666666666666664,158.0,average,pass
+male,group d,bachelor's degree,free/reduced,none,68.0,68.0,67.0,67.66666666666667,203.0,good,pass
+male,group b,some college,standard,completed,71.0,75.0,70.0,72.0,216.0,good,pass
+male,group a,bachelor's degree,standard,none,91.0,96.0,92.0,93.0,279.0,excellent,pass
+female,group c,some college,standard,none,53.0,62.0,56.0,57.0,171.0,average,pass
+female,group c,high school,free/reduced,completed,50.0,66.0,64.0,60.0,180.0,good,pass
+female,group e,high school,standard,none,74.0,81.0,71.0,75.33333333333333,226.0,good,pass
+male,group a,associate's degree,free/reduced,completed,40.0,55.0,53.0,49.333333333333336,148.0,average,pass
+male,group a,some college,standard,completed,61.0,51.0,52.0,54.666666666666664,164.0,average,pass
+female,group b,high school,standard,none,81.0,91.0,89.0,87.0,261.0,excellent,pass
+female,group b,some college,free/reduced,completed,48.0,56.0,58.0,54.0,162.0,average,pass
+female,group d,master's degree,standard,none,53.0,61.0,68.0,60.666666666666664,182.0,good,pass
+female,group d,some high school,standard,none,81.0,97.0,96.0,91.33333333333333,274.0,excellent,pass
+female,group e,some high school,standard,none,77.0,79.0,80.0,78.66666666666667,236.0,good,pass
+female,group d,bachelor's degree,free/reduced,none,63.0,73.0,78.0,71.33333333333333,214.0,good,pass
+female,group d,associate's degree,standard,completed,73.0,75.0,80.0,76.0,228.0,good,pass
+female,group d,some college,standard,none,69.0,77.0,77.0,74.33333333333333,223.0,good,pass
+female,group c,associate's degree,standard,none,65.0,76.0,76.0,72.33333333333333,217.0,good,pass
+female,group a,high school,standard,none,55.0,73.0,73.0,67.0,201.0,good,pass
+female,group c,bachelor's degree,free/reduced,none,44.0,63.0,62.0,56.333333333333336,169.0,average,pass
+female,group c,some college,standard,none,54.0,64.0,65.0,61.0,183.0,good,pass
+female,group a,some high school,standard,none,48.0,66.0,65.0,59.666666666666664,179.0,average,pass
+male,group c,some college,free/reduced,none,58.0,57.0,54.0,56.333333333333336,169.0,average,pass
+male,group a,some high school,standard,none,71.0,62.0,50.0,61.0,183.0,good,pass
+male,group e,bachelor's degree,standard,none,68.0,68.0,64.0,66.66666666666667,200.0,good,pass
+female,group e,high school,standard,none,74.0,76.0,73.0,74.33333333333333,223.0,good,pass
+female,group c,bachelor's degree,standard,completed,92.0,100.0,99.0,97.0,291.0,excellent,pass
+female,group c,bachelor's degree,standard,completed,56.0,79.0,72.0,69.0,207.0,good,pass
+male,group b,high school,free/reduced,none,30.0,29.0,25.875,28.291666666666668,84.875,poor,fail
+male,group a,some high school,standard,none,53.0,54.0,48.0,51.666666666666664,155.0,average,pass
+female,group d,high school,standard,none,69.0,77.0,73.0,73.0,219.0,good,pass
+female,group d,some high school,standard,none,65.0,82.0,81.0,76.0,228.0,good,pass
+female,group d,master's degree,standard,none,54.0,60.0,63.0,59.0,177.0,average,pass
+female,group c,high school,standard,none,29.0,29.0,30.0,29.333333333333332,88.0,poor,fail
+female,group e,some college,standard,none,76.0,78.0,80.0,78.0,234.0,good,pass
+male,group d,high school,free/reduced,none,60.0,57.0,51.0,56.0,168.0,average,pass
+male,group d,master's degree,free/reduced,completed,84.0,89.0,90.0,87.66666666666667,263.0,excellent,pass
+male,group c,some high school,standard,none,75.0,72.0,62.0,69.66666666666667,209.0,good,pass
+female,group c,associate's degree,standard,none,85.0,84.0,82.0,83.66666666666667,251.0,excellent,pass
+female,group c,master's degree,free/reduced,none,40.0,58.0,54.0,50.666666666666664,152.0,average,pass
+female,group e,some college,standard,none,61.0,64.0,62.0,62.333333333333336,187.0,good,pass
+female,group b,associate's degree,standard,none,58.0,63.0,65.0,62.0,186.0,good,pass
+male,group d,some college,free/reduced,completed,69.0,60.0,63.0,64.0,192.0,good,pass
+female,group c,some college,standard,none,58.0,59.0,66.0,61.0,183.0,good,pass
+male,group c,bachelor's degree,standard,completed,94.0,90.0,91.0,91.66666666666667,275.0,excellent,pass
+female,group c,associate's degree,standard,none,65.0,77.0,74.0,72.0,216.0,good,pass
+female,group a,associate's degree,standard,none,82.0,93.0,93.0,89.33333333333333,268.0,excellent,pass
+female,group c,high school,standard,none,60.0,68.0,72.0,66.66666666666667,200.0,good,pass
+female,group e,bachelor's degree,standard,none,37.0,45.0,38.0,40.0,120.0,average,fail
+male,group d,bachelor's degree,standard,none,88.0,78.0,83.0,83.0,249.0,excellent,pass
+male,group d,master's degree,standard,none,95.0,81.0,84.0,86.66666666666667,260.0,excellent,pass
+male,group c,associate's degree,free/reduced,completed,65.0,73.0,68.0,68.66666666666667,206.0,good,pass
+female,group c,high school,free/reduced,none,35.0,61.0,54.0,50.0,150.0,average,fail
+male,group b,bachelor's degree,free/reduced,none,62.0,63.0,56.0,60.333333333333336,181.0,good,pass
+male,group c,high school,free/reduced,completed,58.0,51.0,52.0,53.666666666666664,161.0,average,pass
+male,group a,some college,standard,completed,100.0,96.0,86.0,94.0,282.0,excellent,pass
+female,group e,bachelor's degree,free/reduced,none,61.0,58.0,62.0,60.333333333333336,181.0,good,pass
+male,group d,some college,standard,completed,100.0,97.0,99.0,98.66666666666667,296.0,excellent,pass
+male,group b,associate's degree,free/reduced,completed,69.0,70.0,63.0,67.33333333333333,202.0,good,pass
+male,group d,associate's degree,standard,none,61.0,48.0,46.0,51.666666666666664,155.0,average,pass
+male,group d,some college,free/reduced,none,49.0,57.0,46.0,50.666666666666664,152.0,average,pass
+female,group c,some high school,standard,completed,44.0,51.0,55.0,50.0,150.0,average,pass
+male,group d,some college,standard,none,67.0,64.0,70.0,67.0,201.0,good,pass
+male,group b,high school,standard,none,79.0,60.0,65.0,68.0,204.0,good,pass
+female,group b,bachelor's degree,standard,completed,66.0,74.0,81.0,73.66666666666667,221.0,good,pass
+female,group c,high school,standard,none,75.0,88.0,85.0,82.66666666666667,248.0,excellent,pass
+male,group d,some high school,standard,none,84.0,84.0,80.0,82.66666666666667,248.0,excellent,pass
+male,group a,high school,standard,none,71.0,74.0,64.0,69.66666666666667,209.0,good,pass
+female,group b,high school,free/reduced,completed,67.0,80.0,81.0,76.0,228.0,good,pass
+female,group d,some high school,standard,completed,80.0,92.0,88.0,86.66666666666667,260.0,excellent,pass
+male,group e,some college,standard,none,86.0,76.0,74.0,78.66666666666667,236.0,good,pass
+female,group d,associate's degree,standard,none,76.0,74.0,73.0,74.33333333333333,223.0,good,pass
+male,group d,high school,standard,none,41.0,52.0,51.0,48.0,144.0,average,pass
+female,group d,associate's degree,free/reduced,completed,74.0,88.0,90.0,84.0,252.0,excellent,pass
+female,group b,some high school,free/reduced,none,72.0,81.0,79.0,77.33333333333333,232.0,good,pass
+female,group e,high school,standard,completed,74.0,79.0,80.0,77.66666666666667,233.0,good,pass
+male,group b,high school,standard,none,70.0,65.0,60.0,65.0,195.0,good,pass
+female,group b,bachelor's degree,standard,completed,65.0,81.0,81.0,75.66666666666667,227.0,good,pass
+female,group d,associate's degree,standard,none,59.0,70.0,65.0,64.66666666666667,194.0,good,pass
+female,group e,high school,free/reduced,none,64.0,62.0,68.0,64.66666666666667,194.0,good,pass
+female,group b,high school,standard,none,50.0,53.0,55.0,52.666666666666664,158.0,average,pass
+female,group d,some college,standard,completed,69.0,79.0,81.0,76.33333333333333,229.0,good,pass
+male,group c,some high school,free/reduced,completed,51.0,56.0,53.0,53.333333333333336,160.0,average,pass
+female,group a,high school,standard,completed,68.0,80.0,76.0,74.66666666666667,224.0,good,pass
+female,group d,some college,standard,completed,85.0,86.0,98.0,89.66666666666667,269.0,excellent,pass
+female,group a,associate's degree,standard,completed,65.0,70.0,74.0,69.66666666666667,209.0,good,pass
+female,group b,some high school,standard,none,73.0,79.0,79.0,77.0,231.0,good,pass
+female,group b,some college,standard,none,62.0,67.0,67.0,65.33333333333333,196.0,good,pass
+male,group c,associate's degree,free/reduced,none,77.0,67.0,64.0,69.33333333333333,208.0,good,pass
+male,group d,some high school,standard,none,69.0,66.0,61.0,65.33333333333333,196.0,good,pass
+female,group d,associate's degree,free/reduced,none,43.0,60.0,58.0,53.666666666666664,161.0,average,pass
+male,group d,associate's degree,standard,none,90.0,87.0,85.0,87.33333333333333,262.0,excellent,pass
+male,group c,some college,free/reduced,none,74.0,77.0,73.0,74.66666666666667,224.0,good,pass
+male,group c,some high school,standard,none,73.0,66.0,63.0,67.33333333333333,202.0,good,pass
+female,group d,some college,free/reduced,none,55.0,71.0,69.0,65.0,195.0,good,pass
+female,group c,high school,standard,none,65.0,69.0,67.0,67.0,201.0,good,pass
+male,group d,associate's degree,standard,none,80.0,63.0,63.0,68.66666666666667,206.0,good,pass
+female,group c,some high school,free/reduced,completed,50.0,60.0,60.0,56.666666666666664,170.0,average,pass
+female,group c,some college,free/reduced,completed,63.0,73.0,71.0,69.0,207.0,good,pass
+female,group b,bachelor's degree,free/reduced,none,77.0,85.0,87.0,83.0,249.0,excellent,pass
+male,group c,some college,standard,none,73.0,74.0,61.0,69.33333333333333,208.0,good,pass
+male,group d,associate's degree,standard,completed,81.0,72.0,77.0,76.66666666666667,230.0,good,pass
+female,group c,high school,free/reduced,none,66.0,76.0,68.0,70.0,210.0,good,pass
+male,group d,associate's degree,free/reduced,none,52.0,57.0,50.0,53.0,159.0,average,pass
+female,group c,some college,standard,none,69.0,78.0,76.0,74.33333333333333,223.0,good,pass
+female,group c,associate's degree,standard,completed,65.0,84.0,84.0,77.66666666666667,233.0,good,pass
+female,group d,high school,standard,completed,69.0,77.0,78.0,74.66666666666667,224.0,good,pass
+female,group b,some college,standard,completed,50.0,64.0,66.0,60.0,180.0,good,pass
+female,group e,some college,standard,completed,73.0,78.0,76.0,75.66666666666667,227.0,good,pass
+female,group c,some high school,standard,completed,70.0,82.0,76.0,76.0,228.0,good,pass
+male,group d,associate's degree,free/reduced,none,81.0,75.0,78.0,78.0,234.0,good,pass
+male,group d,some college,free/reduced,none,63.0,61.0,60.0,61.333333333333336,184.0,good,pass
+female,group d,high school,standard,none,67.0,72.0,74.0,71.0,213.0,good,pass
+male,group b,high school,standard,none,60.0,68.0,60.0,62.666666666666664,188.0,good,pass
+male,group b,high school,standard,none,62.0,55.0,54.0,57.0,171.0,average,pass
+female,group c,some high school,free/reduced,completed,29.0,40.0,44.0,37.666666666666664,113.0,poor,fail
+male,group b,some college,standard,completed,62.0,66.0,68.0,65.33333333333333,196.0,good,pass
+female,group e,master's degree,standard,completed,94.0,99.0,100.0,97.66666666666667,293.0,excellent,pass
+male,group e,some college,standard,completed,85.0,75.0,68.0,76.0,228.0,good,pass
+male,group d,associate's degree,free/reduced,none,77.0,78.0,73.0,76.0,228.0,good,pass
+male,group a,high school,free/reduced,none,53.0,58.0,44.0,51.666666666666664,155.0,average,pass
+male,group e,some college,free/reduced,none,93.0,90.0,83.0,88.66666666666667,266.0,excellent,pass
+female,group c,associate's degree,standard,none,49.0,53.0,53.0,51.666666666666664,155.0,average,pass
+female,group e,associate's degree,free/reduced,none,73.0,76.0,78.0,75.66666666666667,227.0,good,pass
+female,group c,bachelor's degree,free/reduced,completed,66.0,74.0,81.0,73.66666666666667,221.0,good,pass
+female,group d,associate's degree,standard,none,77.0,77.0,73.0,75.66666666666667,227.0,good,pass
+female,group c,some high school,standard,none,49.0,63.0,56.0,56.0,168.0,average,pass
+female,group d,some college,free/reduced,none,79.0,89.0,86.0,84.66666666666667,254.0,excellent,pass
+female,group c,associate's degree,standard,completed,75.0,82.0,90.0,82.33333333333333,247.0,excellent,pass
+female,group a,bachelor's degree,standard,none,59.0,72.0,70.0,67.0,201.0,good,pass
+female,group d,associate's degree,standard,completed,57.0,78.0,79.0,71.33333333333333,214.0,good,pass
+male,group c,high school,free/reduced,none,66.0,66.0,59.0,63.666666666666664,191.0,good,pass
+female,group e,bachelor's degree,standard,completed,79.0,81.0,82.0,80.66666666666667,242.0,excellent,pass
+female,group b,some high school,standard,none,57.0,67.0,72.0,65.33333333333333,196.0,good,pass
+male,group a,bachelor's degree,standard,completed,87.0,84.0,87.0,86.0,258.0,excellent,pass
+female,group d,some college,standard,none,63.0,64.0,67.0,64.66666666666667,194.0,good,pass
+female,group b,some high school,free/reduced,completed,59.0,63.0,64.0,62.0,186.0,good,pass
+male,group a,bachelor's degree,free/reduced,none,62.0,72.0,65.0,66.33333333333333,199.0,good,pass
+male,group d,high school,standard,none,46.0,34.0,36.0,38.666666666666664,116.0,poor,fail
+male,group c,some college,standard,none,66.0,59.0,52.0,59.0,177.0,average,pass
+male,group d,high school,standard,none,89.0,87.0,79.0,85.0,255.0,excellent,pass
+female,group d,associate's degree,free/reduced,completed,42.0,61.0,58.0,53.666666666666664,161.0,average,pass
+male,group c,some college,standard,completed,93.0,84.0,90.0,89.0,267.0,excellent,pass
+female,group e,some high school,standard,completed,80.0,85.0,85.0,83.33333333333333,250.0,excellent,pass
+female,group d,some college,standard,none,98.0,100.0,99.0,99.0,297.0,excellent,pass
+male,group d,master's degree,standard,none,81.0,81.0,84.0,82.0,246.0,excellent,pass
+female,group b,some high school,standard,completed,60.0,70.0,74.0,68.0,204.0,good,pass
+female,group b,associate's degree,free/reduced,completed,76.0,94.0,87.0,85.66666666666667,257.0,excellent,pass
+male,group c,associate's degree,standard,completed,73.0,78.0,72.0,74.33333333333333,223.0,good,pass
+female,group c,associate's degree,standard,completed,96.0,96.0,99.0,97.0,291.0,excellent,pass
+female,group c,high school,standard,none,76.0,76.0,74.0,75.33333333333333,226.0,good,pass
+male,group e,associate's degree,free/reduced,completed,91.0,73.0,80.0,81.33333333333333,244.0,excellent,pass
+female,group c,some college,free/reduced,none,62.0,72.0,70.0,68.0,204.0,good,pass
+male,group d,some high school,free/reduced,completed,55.0,59.0,59.0,57.666666666666664,173.0,average,pass
+female,group b,some high school,free/reduced,completed,74.0,90.0,88.0,84.0,252.0,excellent,pass
+male,group c,high school,standard,none,50.0,48.0,42.0,46.666666666666664,140.0,average,pass
+male,group b,some college,standard,none,47.0,43.0,41.0,43.666666666666664,131.0,average,pass
+male,group e,some college,standard,completed,81.0,74.0,71.0,75.33333333333333,226.0,good,pass
+female,group e,associate's degree,standard,completed,65.0,75.0,77.0,72.33333333333333,217.0,good,pass
+male,group e,some high school,standard,completed,68.0,51.0,57.0,58.666666666666664,176.0,average,pass
+female,group d,high school,free/reduced,none,73.0,92.0,84.0,83.0,249.0,excellent,pass
+male,group c,some college,standard,none,53.0,39.0,37.0,43.0,129.0,average,fail
+female,group b,associate's degree,free/reduced,completed,68.0,77.0,80.0,75.0,225.0,good,pass
+male,group a,some high school,free/reduced,none,55.0,46.0,43.0,48.0,144.0,average,pass
+female,group c,some college,standard,completed,87.0,89.0,94.0,90.0,270.0,excellent,pass
+male,group d,some high school,standard,none,55.0,47.0,44.0,48.666666666666664,146.0,average,pass
+female,group e,some college,free/reduced,none,53.0,58.0,57.0,56.0,168.0,average,pass
+male,group c,master's degree,standard,none,67.0,57.0,59.0,61.0,183.0,good,pass
+male,group c,associate's degree,standard,none,92.0,79.0,84.0,85.0,255.0,excellent,pass
+female,group b,some college,free/reduced,completed,53.0,66.0,73.0,64.0,192.0,good,pass
+male,group d,associate's degree,standard,none,81.0,71.0,73.0,75.0,225.0,good,pass
+male,group c,high school,free/reduced,none,61.0,60.0,55.0,58.666666666666664,176.0,average,pass
+male,group d,bachelor's degree,standard,none,80.0,73.0,72.0,75.0,225.0,good,pass
+female,group a,associate's degree,free/reduced,none,37.0,57.0,56.0,50.0,150.0,average,fail
+female,group c,high school,standard,none,81.0,84.0,82.0,82.33333333333333,247.0,excellent,pass
+female,group c,associate's degree,standard,completed,59.0,73.0,72.0,68.0,204.0,good,pass
+male,group b,some college,free/reduced,none,55.0,55.0,47.0,52.333333333333336,157.0,average,pass
+male,group d,associate's degree,standard,none,72.0,79.0,74.0,75.0,225.0,good,pass
+male,group d,high school,standard,none,69.0,75.0,71.0,71.66666666666667,215.0,good,pass
+male,group c,some college,standard,none,69.0,64.0,68.0,67.0,201.0,good,pass
+female,group c,bachelor's degree,free/reduced,none,50.0,60.0,59.0,56.333333333333336,169.0,average,pass
+male,group b,some college,standard,completed,87.0,84.0,86.0,85.66666666666667,257.0,excellent,pass
+male,group d,some high school,standard,completed,71.0,69.0,68.0,69.33333333333333,208.0,good,pass
+male,group e,some college,standard,none,68.0,72.0,65.0,68.33333333333333,205.0,good,pass
+male,group c,master's degree,free/reduced,completed,79.0,77.0,75.0,77.0,231.0,good,pass
+female,group c,some high school,standard,completed,77.0,90.0,85.0,84.0,252.0,excellent,pass
+male,group c,associate's degree,free/reduced,none,58.0,55.0,53.0,55.333333333333336,166.0,average,pass
+female,group e,associate's degree,standard,none,84.0,95.0,92.0,90.33333333333333,271.0,excellent,pass
+male,group d,some college,standard,none,55.0,58.0,52.0,55.0,165.0,average,pass
+male,group e,bachelor's degree,free/reduced,completed,70.0,68.0,72.0,70.0,210.0,good,pass
+female,group d,some college,free/reduced,completed,52.0,59.0,65.0,58.666666666666664,176.0,average,pass
+male,group b,some college,standard,completed,69.0,77.0,77.0,74.33333333333333,223.0,good,pass
+female,group c,high school,free/reduced,none,53.0,72.0,64.0,63.0,189.0,good,pass
+female,group d,some high school,standard,none,48.0,58.0,54.0,53.333333333333336,160.0,average,pass
+male,group d,some high school,standard,completed,78.0,81.0,86.0,81.66666666666667,245.0,excellent,pass
+female,group b,high school,standard,none,62.0,62.0,63.0,62.333333333333336,187.0,good,pass
+male,group d,some college,standard,none,60.0,63.0,59.0,60.666666666666664,182.0,good,pass
+female,group b,high school,standard,none,74.0,72.0,72.0,72.66666666666667,218.0,good,pass
+female,group c,high school,standard,completed,58.0,75.0,77.0,70.0,210.0,good,pass
+male,group b,high school,standard,completed,76.0,62.0,60.0,66.0,198.0,good,pass
+female,group d,some high school,standard,none,68.0,71.0,75.0,71.33333333333333,214.0,good,pass
+male,group a,some college,free/reduced,none,58.0,60.0,57.0,58.333333333333336,175.0,average,pass
+male,group b,high school,standard,none,52.0,48.0,49.0,49.666666666666664,149.0,average,pass
+male,group d,bachelor's degree,standard,none,75.0,73.0,74.0,74.0,222.0,good,pass
+female,group b,some high school,free/reduced,completed,52.0,67.0,72.0,63.666666666666664,191.0,good,pass
+female,group c,bachelor's degree,free/reduced,none,62.0,78.0,79.0,73.0,219.0,good,pass
+male,group b,some college,standard,none,66.0,65.0,60.0,63.666666666666664,191.0,good,pass
+female,group b,some high school,free/reduced,none,49.0,58.0,55.0,54.0,162.0,average,pass
+female,group b,high school,standard,none,66.0,72.0,70.0,69.33333333333333,208.0,good,pass
+female,group c,some college,free/reduced,none,35.0,44.0,43.0,40.666666666666664,122.0,average,fail
+female,group a,some college,standard,completed,72.0,79.0,82.0,77.66666666666667,233.0,good,pass
+male,group e,associate's degree,standard,completed,94.0,85.0,82.0,87.0,261.0,excellent,pass
+female,group d,associate's degree,free/reduced,none,46.0,56.0,57.0,53.0,159.0,average,pass
+female,group b,master's degree,standard,none,77.0,90.0,84.0,83.66666666666667,251.0,excellent,pass
+female,group b,high school,free/reduced,completed,76.0,85.0,82.0,81.0,243.0,excellent,pass
+female,group c,associate's degree,standard,completed,52.0,59.0,62.0,57.666666666666664,173.0,average,pass
+male,group c,bachelor's degree,standard,completed,91.0,81.0,79.0,83.66666666666667,251.0,excellent,pass
+female,group b,some high school,standard,completed,32.0,51.0,44.0,42.333333333333336,127.0,average,fail
+female,group e,some high school,free/reduced,none,72.0,79.0,77.0,76.0,228.0,good,pass
+female,group b,some college,standard,none,27.0,38.0,32.0,32.333333333333336,97.0,poor,fail
+male,group c,associate's degree,free/reduced,none,68.0,65.0,61.0,64.66666666666667,194.0,good,pass
+female,group c,master's degree,free/reduced,none,52.0,65.0,61.0,59.333333333333336,178.0,average,pass
+female,group b,high school,standard,none,48.0,62.0,60.0,56.666666666666664,170.0,average,pass
+female,group d,some college,free/reduced,none,60.0,66.0,70.0,65.33333333333333,196.0,good,pass
+male,group d,high school,free/reduced,none,66.0,74.0,69.0,69.66666666666667,209.0,good,pass
+male,group e,some high school,standard,completed,89.0,84.0,77.0,83.33333333333333,250.0,excellent,pass
+female,group b,high school,standard,none,42.0,52.0,51.0,48.333333333333336,145.0,average,pass
+female,group e,associate's degree,free/reduced,completed,57.0,68.0,73.0,66.0,198.0,good,pass
+male,group d,high school,standard,none,70.0,70.0,70.0,70.0,210.0,good,pass
+female,group e,associate's degree,free/reduced,none,70.0,84.0,81.0,78.33333333333333,235.0,good,pass
+male,group e,some college,standard,none,69.0,60.0,54.0,61.0,183.0,good,pass
+female,group c,associate's degree,standard,none,52.0,55.0,57.0,54.666666666666664,164.0,average,pass
+male,group c,some high school,standard,completed,67.0,73.0,68.0,69.33333333333333,208.0,good,pass
+male,group c,some high school,standard,completed,76.0,80.0,73.0,76.33333333333333,229.0,good,pass
+female,group e,associate's degree,standard,none,87.0,94.0,95.0,92.0,276.0,excellent,pass
+female,group b,some college,standard,none,82.0,85.0,87.0,84.66666666666667,254.0,excellent,pass
+female,group c,some college,standard,none,73.0,76.0,78.0,75.66666666666667,227.0,good,pass
+male,group a,some college,free/reduced,none,75.0,81.0,74.0,76.66666666666667,230.0,good,pass
+female,group d,some college,free/reduced,none,64.0,74.0,75.0,71.0,213.0,good,pass
+female,group e,high school,free/reduced,none,41.0,45.0,40.0,42.0,126.0,average,pass
+male,group c,high school,standard,none,90.0,75.0,69.0,78.0,234.0,good,pass
+male,group b,bachelor's degree,standard,none,59.0,54.0,51.0,54.666666666666664,164.0,average,pass
+male,group a,some high school,standard,none,51.0,31.0,36.0,39.333333333333336,118.0,poor,fail
+male,group a,high school,free/reduced,none,45.0,47.0,49.0,47.0,141.0,average,pass
+female,group c,master's degree,standard,completed,54.0,64.0,67.0,61.666666666666664,185.0,good,pass
+male,group e,some high school,standard,completed,87.0,84.0,76.0,82.33333333333333,247.0,excellent,pass
+female,group c,high school,standard,none,72.0,80.0,83.0,78.33333333333333,235.0,good,pass
+male,group b,some high school,standard,completed,94.0,86.0,87.0,89.0,267.0,excellent,pass
+female,group a,bachelor's degree,standard,none,45.0,59.0,64.0,56.0,168.0,average,pass
+male,group d,bachelor's degree,free/reduced,completed,61.0,70.0,76.0,69.0,207.0,good,pass
+female,group b,high school,free/reduced,none,60.0,72.0,68.0,66.66666666666667,200.0,good,pass
+female,group c,some high school,standard,none,77.0,91.0,88.0,85.33333333333333,256.0,excellent,pass
+female,group a,some high school,standard,completed,85.0,90.0,92.0,89.0,267.0,excellent,pass
+female,group d,bachelor's degree,free/reduced,none,78.0,90.0,93.0,87.0,261.0,excellent,pass
+male,group e,some college,free/reduced,completed,49.0,52.0,51.0,50.666666666666664,152.0,average,pass
+female,group b,high school,free/reduced,none,71.0,87.0,82.0,80.0,240.0,excellent,pass
+female,group c,some high school,free/reduced,none,48.0,58.0,52.0,52.666666666666664,158.0,average,pass
+male,group c,high school,standard,none,62.0,67.0,58.0,62.333333333333336,187.0,good,pass
+female,group c,associate's degree,free/reduced,completed,56.0,68.0,70.0,64.66666666666667,194.0,good,pass
+female,group c,some high school,standard,none,65.0,69.0,76.0,70.0,210.0,good,pass
+female,group d,some high school,free/reduced,completed,69.0,86.0,81.0,78.66666666666667,236.0,good,pass
+male,group b,some high school,standard,none,68.0,54.0,53.0,58.333333333333336,175.0,average,pass
+female,group a,some college,free/reduced,none,61.0,60.0,57.0,59.333333333333336,178.0,average,pass
+female,group c,bachelor's degree,free/reduced,completed,74.0,86.0,89.0,83.0,249.0,excellent,pass
+male,group a,bachelor's degree,standard,none,64.0,60.0,58.0,60.666666666666664,182.0,good,pass
+female,group b,high school,standard,completed,77.0,82.0,89.0,82.66666666666667,248.0,excellent,pass
+male,group b,some college,standard,none,58.0,50.0,45.0,51.0,153.0,average,pass
+female,group c,high school,standard,completed,60.0,64.0,74.0,66.0,198.0,good,pass
+male,group e,high school,standard,none,73.0,64.0,57.0,64.66666666666667,194.0,good,pass
+female,group a,high school,standard,completed,75.0,82.0,79.0,78.66666666666667,236.0,good,pass
+male,group b,associate's degree,free/reduced,completed,58.0,57.0,53.0,56.0,168.0,average,pass
+female,group c,associate's degree,standard,none,66.0,77.0,73.0,72.0,216.0,good,pass
+female,group d,high school,free/reduced,none,39.0,52.0,46.0,45.666666666666664,137.0,average,fail
+male,group c,some high school,standard,none,64.0,58.0,51.0,57.666666666666664,173.0,average,pass
+female,group b,high school,free/reduced,completed,27.0,44.0,36.0,35.666666666666664,107.0,poor,fail
+male,group b,some college,free/reduced,completed,74.0,77.0,76.0,75.66666666666667,227.0,good,pass
+female,group d,some high school,free/reduced,completed,40.0,65.0,64.0,56.333333333333336,169.0,average,pass
+male,group e,master's degree,standard,none,90.0,85.0,84.0,86.33333333333333,259.0,excellent,pass
+male,group c,master's degree,standard,completed,91.0,85.0,85.0,87.0,261.0,excellent,pass
+male,group d,high school,standard,none,64.0,54.0,50.0,56.0,168.0,average,pass
+female,group c,high school,standard,none,59.0,72.0,68.0,66.33333333333333,199.0,good,pass
+male,group d,associate's degree,standard,none,80.0,75.0,69.0,74.66666666666667,224.0,good,pass
+male,group c,master's degree,standard,none,71.0,67.0,67.0,68.33333333333333,205.0,good,pass
+female,group a,high school,standard,none,61.0,68.0,63.0,64.0,192.0,good,pass
+female,group e,some college,standard,none,87.0,85.0,93.0,88.33333333333333,265.0,excellent,pass
+male,group e,some high school,standard,none,82.0,67.0,61.0,70.0,210.0,good,pass
+male,group c,some high school,standard,none,62.0,64.0,55.0,60.333333333333336,181.0,good,pass
+female,group b,bachelor's degree,standard,none,97.0,97.0,96.0,96.66666666666667,290.0,excellent,pass
+male,group b,some college,free/reduced,none,75.0,68.0,65.0,69.33333333333333,208.0,good,pass
+female,group c,bachelor's degree,standard,none,65.0,79.0,81.0,75.0,225.0,good,pass
+male,group b,high school,standard,completed,52.0,49.0,46.0,49.0,147.0,average,pass
+male,group c,associate's degree,free/reduced,none,87.0,73.0,72.0,77.33333333333333,232.0,good,pass
+female,group c,associate's degree,standard,none,53.0,62.0,53.0,56.0,168.0,average,pass
+female,group e,master's degree,free/reduced,none,81.0,86.0,87.0,84.66666666666667,254.0,excellent,pass
+male,group d,bachelor's degree,free/reduced,completed,39.0,42.0,38.0,39.666666666666664,119.0,poor,fail
+female,group c,some college,standard,completed,71.0,71.0,80.0,74.0,222.0,good,pass
+male,group c,associate's degree,standard,none,97.0,93.0,91.0,93.66666666666667,281.0,excellent,pass
+male,group d,some college,standard,completed,82.0,82.0,88.0,84.0,252.0,excellent,pass
+male,group c,high school,free/reduced,none,59.0,53.0,52.0,54.666666666666664,164.0,average,pass
+male,group b,associate's degree,standard,none,61.0,42.0,41.0,48.0,144.0,average,pass
+male,group e,associate's degree,free/reduced,completed,78.0,74.0,72.0,74.66666666666667,224.0,good,pass
+male,group c,associate's degree,free/reduced,none,49.0,51.0,51.0,50.333333333333336,151.0,average,pass
+male,group b,high school,standard,none,59.0,58.0,47.0,54.666666666666664,164.0,average,pass
+female,group c,some college,standard,completed,70.0,72.0,76.0,72.66666666666667,218.0,good,pass
+male,group b,associate's degree,standard,completed,82.0,84.0,78.0,81.33333333333333,244.0,excellent,pass
+male,group e,associate's degree,free/reduced,none,90.0,90.0,82.0,87.33333333333333,262.0,excellent,pass
+female,group c,bachelor's degree,free/reduced,none,43.0,62.0,61.0,55.333333333333336,166.0,average,pass
+male,group c,some college,free/reduced,none,80.0,64.0,66.0,70.0,210.0,good,pass
+male,group d,some college,standard,none,81.0,82.0,84.0,82.33333333333333,247.0,excellent,pass
+male,group c,some high school,standard,none,57.0,61.0,54.0,57.333333333333336,172.0,average,pass
+female,group d,some high school,standard,none,59.0,72.0,80.0,70.33333333333333,211.0,good,pass
+female,group d,associate's degree,standard,none,64.0,76.0,74.0,71.33333333333333,214.0,good,pass
+male,group c,bachelor's degree,standard,completed,63.0,64.0,66.0,64.33333333333333,193.0,good,pass
+female,group e,bachelor's degree,standard,completed,71.0,70.0,70.0,70.33333333333333,211.0,good,pass
+female,group b,high school,free/reduced,none,64.0,73.0,71.0,69.33333333333333,208.0,good,pass
+male,group d,bachelor's degree,free/reduced,none,55.0,46.0,44.0,48.333333333333336,145.0,average,pass
+female,group e,associate's degree,standard,none,51.0,51.0,54.0,52.0,156.0,average,pass
+female,group c,associate's degree,standard,completed,62.0,76.0,80.0,72.66666666666667,218.0,good,pass
+female,group e,associate's degree,standard,completed,93.0,100.0,95.0,96.0,288.0,excellent,pass
+male,group c,high school,free/reduced,none,54.0,72.0,59.0,61.666666666666664,185.0,good,pass
+female,group d,some college,free/reduced,none,69.0,65.0,74.0,69.33333333333333,208.0,good,pass
+male,group d,high school,free/reduced,none,44.0,51.0,48.0,47.666666666666664,143.0,average,pass
+female,group e,some college,standard,completed,86.0,85.0,91.0,87.33333333333333,262.0,excellent,pass
+female,group e,associate's degree,standard,none,85.0,92.0,85.0,87.33333333333333,262.0,excellent,pass
+female,group a,master's degree,free/reduced,none,50.0,67.0,73.0,63.333333333333336,190.0,good,pass
+male,group d,some high school,standard,completed,88.0,74.0,75.0,79.0,237.0,good,pass
+female,group e,associate's degree,standard,none,59.0,62.0,69.0,63.333333333333336,190.0,good,pass
+female,group e,some high school,free/reduced,none,32.0,34.0,38.0,34.666666666666664,104.0,poor,fail
+male,group b,high school,free/reduced,none,36.0,29.0,27.0,30.666666666666668,92.0,poor,fail
+female,group b,some high school,free/reduced,completed,63.0,78.0,79.0,73.33333333333333,220.0,good,pass
+male,group d,associate's degree,standard,completed,67.0,54.0,63.0,61.333333333333336,184.0,good,pass
+female,group d,some high school,standard,completed,65.0,78.0,82.0,75.0,225.0,good,pass
+male,group d,master's degree,standard,none,85.0,84.0,89.0,86.0,258.0,excellent,pass
+female,group c,master's degree,standard,none,73.0,78.0,74.0,75.0,225.0,good,pass
+female,group a,high school,free/reduced,completed,34.0,48.0,41.0,41.0,123.0,average,fail
+female,group d,bachelor's degree,free/reduced,completed,93.0,100.0,100.0,97.66666666666667,293.0,excellent,pass
+female,group d,some high school,free/reduced,none,67.0,84.0,84.0,78.33333333333333,235.0,good,pass
+male,group d,some college,standard,none,88.0,77.0,77.0,80.66666666666667,242.0,excellent,pass
+male,group b,high school,standard,none,57.0,48.0,51.0,52.0,156.0,average,pass
+female,group d,some college,standard,completed,79.0,84.0,91.0,84.66666666666667,254.0,excellent,pass
+female,group c,bachelor's degree,free/reduced,none,67.0,75.0,72.0,71.33333333333333,214.0,good,pass
+male,group e,bachelor's degree,standard,completed,70.0,64.0,70.0,68.0,204.0,good,pass
+male,group d,bachelor's degree,free/reduced,none,50.0,42.0,48.0,46.666666666666664,140.0,average,pass
+female,group a,some college,standard,none,69.0,84.0,82.0,78.33333333333333,235.0,good,pass
+female,group c,bachelor's degree,standard,completed,52.0,61.0,66.0,59.666666666666664,179.0,average,pass
+female,group c,bachelor's degree,free/reduced,completed,47.0,62.0,66.0,58.333333333333336,175.0,average,pass
+female,group b,associate's degree,free/reduced,none,46.0,61.0,55.0,54.0,162.0,average,pass
+female,group e,some college,standard,none,68.0,70.0,66.0,68.0,204.0,good,pass
+male,group e,bachelor's degree,standard,completed,100.0,100.0,100.0,100.0,300.0,excellent,pass
+female,group c,high school,standard,none,44.0,61.0,52.0,52.333333333333336,157.0,average,pass
+female,group c,associate's degree,standard,completed,57.0,77.0,80.0,71.33333333333333,214.0,good,pass
+male,group b,some college,standard,completed,91.0,96.0,91.0,92.66666666666667,278.0,excellent,pass
+male,group d,high school,free/reduced,none,69.0,70.0,67.0,68.66666666666667,206.0,good,pass
+female,group c,high school,free/reduced,none,35.0,53.0,46.0,44.666666666666664,134.0,average,fail
+male,group d,high school,standard,none,72.0,66.0,66.0,68.0,204.0,good,pass
+female,group b,associate's degree,free/reduced,none,54.0,65.0,65.0,61.333333333333336,184.0,good,pass
+male,group d,high school,free/reduced,none,74.0,70.0,69.0,71.0,213.0,good,pass
+male,group e,some high school,standard,completed,74.0,64.0,60.0,66.0,198.0,good,pass
+male,group e,associate's degree,free/reduced,none,64.0,56.0,52.0,57.333333333333336,172.0,average,pass
+female,group d,high school,free/reduced,completed,65.0,61.0,71.0,65.66666666666667,197.0,good,pass
+male,group e,associate's degree,free/reduced,completed,46.0,43.0,44.0,44.333333333333336,133.0,average,pass
+female,group c,some high school,free/reduced,none,48.0,56.0,51.0,51.666666666666664,155.0,average,pass
+male,group c,some college,free/reduced,completed,67.0,74.0,70.0,70.33333333333333,211.0,good,pass
+male,group d,some college,free/reduced,none,62.0,57.0,62.0,60.333333333333336,181.0,good,pass
+male,group d,associate's degree,free/reduced,completed,61.0,71.0,73.0,68.33333333333333,205.0,good,pass
+male,group c,bachelor's degree,free/reduced,completed,70.0,75.0,74.0,73.0,219.0,good,pass
+male,group c,associate's degree,standard,completed,98.0,87.0,90.0,91.66666666666667,275.0,excellent,pass
+male,group d,some college,free/reduced,none,70.0,63.0,58.0,63.666666666666664,191.0,good,pass
+male,group a,associate's degree,standard,none,67.0,57.0,53.0,59.0,177.0,average,pass
+female,group e,high school,free/reduced,none,57.0,58.0,57.0,57.333333333333336,172.0,average,pass
+male,group d,some college,standard,completed,85.0,81.0,85.0,83.66666666666667,251.0,excellent,pass
+male,group d,some high school,standard,completed,77.0,68.0,69.0,71.33333333333333,214.0,good,pass
+male,group c,master's degree,free/reduced,completed,72.0,66.0,72.0,70.0,210.0,good,pass
+female,group d,master's degree,standard,none,78.0,91.0,96.0,88.33333333333333,265.0,excellent,pass
+male,group c,high school,standard,none,81.0,66.0,64.0,70.33333333333333,211.0,good,pass
+male,group a,some high school,free/reduced,completed,61.0,62.0,61.0,61.333333333333336,184.0,good,pass
+female,group b,high school,standard,none,58.0,68.0,61.0,62.333333333333336,187.0,good,pass
+female,group c,associate's degree,standard,none,54.0,61.0,58.0,57.666666666666664,173.0,average,pass
+male,group b,high school,standard,none,82.0,82.0,80.0,81.33333333333333,244.0,excellent,pass
+female,group d,some college,free/reduced,none,49.0,58.0,60.0,55.666666666666664,167.0,average,pass
+male,group b,some high school,free/reduced,completed,49.0,50.0,52.0,50.333333333333336,151.0,average,pass
+female,group e,high school,free/reduced,completed,57.0,75.0,73.0,68.33333333333333,205.0,good,pass
+male,group e,high school,standard,none,94.0,73.0,71.0,79.33333333333333,238.0,good,pass
+female,group d,some college,standard,completed,75.0,77.0,83.0,78.33333333333333,235.0,good,pass
+female,group e,some high school,free/reduced,none,74.0,74.0,72.0,73.33333333333333,220.0,good,pass
+male,group c,high school,standard,completed,58.0,52.0,54.0,54.666666666666664,164.0,average,pass
+female,group c,some college,standard,none,62.0,69.0,69.0,66.66666666666667,200.0,good,pass
+male,group e,associate's degree,standard,none,72.0,57.0,62.0,63.666666666666664,191.0,good,pass
+male,group c,some college,standard,none,84.0,87.0,81.0,84.0,252.0,excellent,pass
+female,group d,master's degree,standard,none,92.0,100.0,100.0,97.33333333333333,292.0,excellent,pass
+female,group d,high school,standard,none,45.0,63.0,59.0,55.666666666666664,167.0,average,pass
+male,group c,high school,standard,none,75.0,81.0,71.0,75.66666666666667,227.0,good,pass
+female,group a,some college,standard,none,56.0,58.0,64.0,59.333333333333336,178.0,average,pass
+female,group d,some high school,free/reduced,none,48.0,54.0,53.0,51.666666666666664,155.0,average,pass
+female,group e,associate's degree,standard,none,100.0,100.0,100.0,100.0,300.0,excellent,pass
+female,group c,some high school,free/reduced,completed,65.0,76.0,75.0,72.0,216.0,good,pass
+male,group d,some college,standard,none,72.0,57.0,58.0,62.333333333333336,187.0,good,pass
+female,group d,some college,standard,none,62.0,70.0,72.0,68.0,204.0,good,pass
+male,group a,some high school,standard,completed,66.0,68.0,64.0,66.0,198.0,good,pass
+male,group c,some college,standard,none,63.0,63.0,60.0,62.0,186.0,good,pass
+female,group e,associate's degree,standard,none,68.0,76.0,67.0,70.33333333333333,211.0,good,pass
+female,group b,bachelor's degree,standard,none,75.0,84.0,80.0,79.66666666666667,239.0,good,pass
+female,group d,bachelor's degree,standard,none,89.0,100.0,100.0,96.33333333333333,289.0,excellent,pass
+male,group c,some high school,standard,completed,78.0,72.0,69.0,73.0,219.0,good,pass
+female,group a,high school,free/reduced,completed,53.0,50.0,60.0,54.333333333333336,163.0,average,pass
+female,group d,some college,free/reduced,none,49.0,65.0,61.0,58.333333333333336,175.0,average,pass
+female,group a,some college,standard,none,54.0,63.0,67.0,61.333333333333336,184.0,good,pass
+female,group c,some college,standard,completed,64.0,82.0,77.0,74.33333333333333,223.0,good,pass
+male,group b,some college,free/reduced,completed,60.0,62.0,60.0,60.666666666666664,182.0,good,pass
+male,group c,associate's degree,standard,none,62.0,65.0,58.0,61.666666666666664,185.0,good,pass
+male,group d,high school,standard,completed,55.0,41.0,48.0,48.0,144.0,average,pass
+female,group c,associate's degree,standard,none,91.0,95.0,94.0,93.33333333333333,280.0,excellent,pass
+female,group b,high school,free/reduced,none,27.0,29.0,25.875,27.291666666666668,81.875,poor,fail
+male,group d,some high school,standard,none,81.0,78.0,78.0,79.0,237.0,good,pass
+male,group b,some high school,standard,completed,79.0,85.0,86.0,83.33333333333333,250.0,excellent,pass
+female,group a,some college,standard,completed,78.0,87.0,91.0,85.33333333333333,256.0,excellent,pass
+female,group c,some high school,standard,none,74.0,75.0,82.0,77.0,231.0,good,pass
+male,group a,high school,standard,none,57.0,51.0,54.0,54.0,162.0,average,pass
+female,group c,associate's degree,standard,none,40.0,59.0,51.0,50.0,150.0,average,pass
+male,group e,some high school,standard,completed,81.0,75.0,76.0,77.33333333333333,232.0,good,pass
+female,group a,some high school,free/reduced,none,44.0,45.0,45.0,44.666666666666664,134.0,average,pass
+female,group d,some college,free/reduced,completed,67.0,86.0,83.0,78.66666666666667,236.0,good,pass
+male,group e,high school,free/reduced,completed,86.0,81.0,75.0,80.66666666666667,242.0,excellent,pass
+female,group b,some high school,standard,completed,65.0,82.0,78.0,75.0,225.0,good,pass
+female,group d,associate's degree,free/reduced,none,55.0,76.0,76.0,69.0,207.0,good,pass
+female,group d,bachelor's degree,free/reduced,none,62.0,72.0,74.0,69.33333333333333,208.0,good,pass
+male,group a,high school,standard,none,63.0,63.0,62.0,62.666666666666664,188.0,good,pass
+female,group e,master's degree,standard,completed,88.0,99.0,95.0,94.0,282.0,excellent,pass
+male,group c,high school,free/reduced,none,62.0,55.0,55.0,57.333333333333336,172.0,average,pass
+female,group c,high school,free/reduced,completed,59.0,71.0,65.0,65.0,195.0,good,pass
+female,group d,some college,standard,completed,68.0,78.0,77.0,74.33333333333333,223.0,good,pass
+female,group d,some college,free/reduced,none,77.0,86.0,86.0,83.0,249.0,excellent,pass
